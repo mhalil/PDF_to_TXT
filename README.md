@@ -1,14 +1,12 @@
 # PDF_to_TXT
 
-PDF'ten TXT'ye dönüşüm ve Veri Madenciliği
+## PDF'ten TXT'ye Dönüşüm ve Veri Madenciliği
 
-Örnek **Analiz_Rapor.pdf** dosyası içindeki veriler [PyPDF2](https://github.com/py-pdf/pypdf) kütüphanesi yardımıyla **pdf_verisi.txt** dosyasına aktarıyoruz.
+Örnek **Analiz_Rapor.pdf** dosyası içindeki verileri, [PyPDF2](https://github.com/py-pdf/pypdf) kütüphanesi yardımıyla **pdf_verisi.txt** dosyasına aktarıyoruz.
 
 Ardından [RE (Regular Expression (Düzenli İfadeler))](https://docs.python.org/3/library/re.html) kütüphanesi yardımıyla, aranan değerlere (desenlere) uygun çıktıları elde ederek konsola yazdırıyor ya da **Rapor_Degerleri.txt** isimli dosyaya kaydediyoruz.
 
-
-
-<u>Örnek desenler</u>;
+***Örnek desenler;***
 
 ```python
 desen_brinell_sertlik = r"Brinell\s+\d+\.\d+\s+HBW"
@@ -16,7 +14,7 @@ desen_cekme_gerilmesi = r"\(Rm\)\s+\d+\.\d+\s+N/mm\^2\s+EN ISO 6892-1 Metod B"
 desen_kimyasal = r"\*?\w+\s+<?\d+\.\d+\s+%\s+ASTM E1999"
 ```
 
-<u>Örnek Çıkılar;</u>
+***Örnek Çıkılar;***
 
 ```python
 Brinell   195.10  HBW
