@@ -1,4 +1,4 @@
-import re, desenler
+import re
 
 ##### "pdf_verisi.txt" isimli dosya içeriğini oku, desen ile eşleşen değerleri Konsola yazdır. ####
 def yazdir(desen):
@@ -18,6 +18,3 @@ def kaydet(desen):
             for deger in eslesme:
                 kaydet.write(deger.replace(".", ",") + "\n")    # "." nokta karakterini "," virgül ile değiştir, sonra kaydet.
 ########################################################################################################################################
-
-# yazdir(r"Brinell\s+\d+\.\d+\s+HBW")
-# yazdir(desenler.desen_brinell_sertlik)

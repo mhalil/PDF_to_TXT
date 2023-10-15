@@ -1,29 +1,23 @@
-import PDF_to_TXT       # "veriyi_kaydet()" fonksiyonunu sadece bir kez çalıştırıp PDF Dosya içeriğini "pdf_verisi.txt" adıyla kaydetmek için kullanacağız.
-import re, fonksiyonlar
+import re
+from fonksiyonlar import *
+from desenler import *
 
-##### PDF_to_TXT.py dosyasındaki "veriyi_kaydet()" fonksiyonunu çalıştır ###
-# PDF_to_TXT.veriyi_kaydet()    # 1 kez çalıştırılmalı
-############################################################################
-
-##### Desen İsimlerini Guncelleyen Fonksiyon ###################
-desen_listesi = []
-pattern = r'\w+\s+=\s+r"'
-
-def desen_listesini_guncelle():
-    with open("desenler.py", "r", encoding="utf8") as dosya:
-        icerik = dosya.read()
-        eslesme = re.findall(pattern, icerik)
-        for desen_adi in eslesme:
-            desen_listesi.append(desen_adi[:-5])
-
-desen_listesini_guncelle()
-
-# ### Desen isimlerini ekrana yazdır, kontrol et.
-for i in desen_listesi:
-    print(i)
-###############################################################    
-
-#### Fonksiyonları sırayla çalıştır ############
-# for desen_adi in desen_listesi:
-#     fonksiyonlar.yazdir(desen_adi)
+#### yazdir() Fonksiyonunu Çalıştır ############
+yazdir(desen_akma_dayanimi)
+yazdir(desen_brinell_sertlik)
+yazdir(desen_cekme_gerilmesi)
+yazdir(desen_conta_kopma_mukavemeti)
+yazdir(desen_conta_uzama)
+yazdir(desen_kimyasal)
+yazdir(desen_kopma_uzamasi)
 ################################################    
+
+#### kaydet() Fonksiyonunu Çalıştır ############
+kaydet(desen_akma_dayanimi)
+kaydet(desen_brinell_sertlik)
+kaydet(desen_cekme_gerilmesi)
+kaydet(desen_conta_kopma_mukavemeti)
+kaydet(desen_conta_uzama)
+kaydet(desen_kimyasal)
+kaydet(desen_kopma_uzamasi)
+################################################
