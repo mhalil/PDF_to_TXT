@@ -19,4 +19,5 @@ def kaydet(desen):
                 kaydet.write(deger.replace(".", ",") + "\n")    # "." nokta karakterini "," virgül ile değiştir, sonra kaydet.
 ########################################################################################################################################
 
+# yazdir(r"Brinell\s+\d+\.\d+\s+HBW")
 # yazdir(desenler.desen_brinell_sertlik)
