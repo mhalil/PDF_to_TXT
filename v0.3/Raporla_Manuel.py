@@ -3,13 +3,13 @@ from fonksiyonlar import *
 from desenler import *
 
 #### yazdir() Fonksiyonunu Çalıştır ############
-# yazdir(desen_akma_dayanimi)
+yazdir(desen_akma_dayanimi)
 yazdir(desen_brinell_sertlik)
 yazdir(desen_cekme_gerilmesi)
-# yazdir(desen_conta_kopma_mukavemeti)
-# yazdir(desen_conta_uzama)
+yazdir(desen_conta_kopma_mukavemeti)
+yazdir(desen_conta_uzama)
 yazdir(desen_kimyasal)
-# yazdir(desen_kopma_uzamasi)
+yazdir(desen_kopma_uzamasi)
 ################################################    
 
 #### kaydet() Fonksiyonunu Çalıştır ############
