@@ -1,1831 +1,270 @@
-TEKNOLAB TEKNOLOJİ LABORATUVAR HİZMETLERİ LİMİTED
-ŞİRKETİ
-İkitelli Organize Sanayi Bölgesi Pik Dokümcüler Sit. B6 Blok No:23 Başakşehir İSTANBUL/TÜRKİYEAB-0646-T
-2023/PRT‐İ/00615
-10-2023
-Lab. Numune No/Rapor No
-Lab. Order No/Report No2023/I-02889
-Deneyin Yapıldığı Tarih
-Date of Test02/10/2023
-Numune Adı, Tarifi, 
-(Müşteri tarafından beyan edilmiştir.)
-Name, identity (Declared by Customer)Mafsal Pimi 1.Numune
-Ortam Şartları
-Environmental Conditions24°C
-Açıklama
-Description
-Parametreler
-ParametersAnaliz Sonuçları
-Result of analysisBirim
-UnitDeney Metodu
-Analysis Method
-Paslanmaz Çelik Spektrometrik Analiz
-C  0.016  %  ASTM E1086  
-Si  0.403  %  ASTM E1086  
-Mn  1.129  %  ASTM E1086  
-P  0.033  %  ASTM E1086  
-S  0.0055  %  ASTM E1086  
-Cr  18.19  %  ASTM E1086  
-Ni  8.496  %  ASTM E1086  
-Mo  0.030  %  ASTM E1086  
-Cu  0.026  %  ASTM E1086  
-Fe+Diğer  71.19  %  ASTM E1086  
-Mühür / Kaşe
-SealYayımlandığı Tarih
-Date
-27/09/2023Deney Sorumlusu
-Person In Charge Of Test
-Deney Personeli
-İbrahim KILINÇASLAN
-Evrakın doğrulanması için  “http://www.teknolab.info/eimza/evrak_sorgula.aspx”  adresinden ”2023/I‐02889” kodu ile erişebilirsiniz. 
-Bu belge 5070 sayılı elektronik imza kanununa göre güvenli elektronik imza ile imzalanmıştır.
-Bu rapor, laboratuvarın yazılı izni olmadan kısmen kopyalanıp çoğaltılamaz. İmzasız raporlar gerçersizdir. 
-This report, shall not be reproduced other then in full except with the permission of the laboratory. 
-Testing resports without signature are not valid.
-2 / 46 
-F.7.8-001 / (25.02.2023/01)TEKNOLAB TEKNOLOJİ LABORATUVAR HİZMETLERİ LİMİTED
-ŞİRKETİ
-İkitelli Organize Sanayi Bölgesi Pik Dokümcüler Sit. B6 Blok No:23 Başakşehir İSTANBUL/TÜRKİYEAB-0646-T
-2023/PRT‐İ/00615
-10-2023
-Lab. Numune No/Rapor No
-Lab. Order No/Report No2023/I-02890
-Deneyin Yapıldığı Tarih
-Date of Test02/10/2023
-Numune Adı, Tarifi, 
-(Müşteri tarafından beyan edilmiştir.)
-Name, identity (Declared by Customer)Mafsal Pimi 2.Numune
-Ortam Şartları
-Environmental Conditions24°C
-Açıklama
-Description
-Parametreler
-ParametersAnaliz Sonuçları
-Result of analysisBirim
-UnitDeney Metodu
-Analysis Method
-Paslanmaz Çelik Spektrometrik Analiz
-C  0.019  %  ASTM E1086  
-Si  0.416  %  ASTM E1086  
-Mn  1.108  %  ASTM E1086  
-P  0.034  %  ASTM E1086  
-S  0.0053  %  ASTM E1086  
-Cr  18.32  %  ASTM E1086  
-Ni  8.491  %  ASTM E1086  
-Mo  0.031  %  ASTM E1086  
-Cu  0.026  %  ASTM E1086  
-Fe+Diğer  71.06  %  ASTM E1086  
-Mühür / Kaşe
-SealYayımlandığı Tarih
-Date
-27/09/2023Deney Sorumlusu
-Person In Charge Of Test
-Deney Personeli
-İbrahim KILINÇASLAN
-Evrakın doğrulanması için  “http://www.teknolab.info/eimza/evrak_sorgula.aspx”  adresinden ”2023/I‐02890” kodu ile erişebilirsiniz. 
-Bu belge 5070 sayılı elektronik imza kanununa göre güvenli elektronik imza ile imzalanmıştır.
-Bu rapor, laboratuvarın yazılı izni olmadan kısmen kopyalanıp çoğaltılamaz. İmzasız raporlar gerçersizdir. 
-This report, shall not be reproduced other then in full except with the permission of the laboratory. 
-Testing resports without signature are not valid.
-3 / 46 
-F.7.8-001 / (25.02.2023/01)TEKNOLAB TEKNOLOJİ LABORATUVAR HİZMETLERİ LİMİTED
-ŞİRKETİ
-İkitelli Organize Sanayi Bölgesi Pik Dokümcüler Sit. B6 Blok No:23 Başakşehir İSTANBUL/TÜRKİYEAB-0646-T
-2023/PRT‐İ/00615
-10-2023
-Lab. Numune No/Rapor No
-Lab. Order No/Report No2023/I-02891
-Deneyin Yapıldığı Tarih
-Date of Test02/10/2023
-Numune Adı, Tarifi, 
-(Müşteri tarafından beyan edilmiştir.)
-Name, identity (Declared by Customer)Mafsal Pimi 3.Numune
-Ortam Şartları
-Environmental Conditions24°C
-Açıklama
-Description
-Parametreler
-ParametersAnaliz Sonuçları
-Result of analysisBirim
-UnitDeney Metodu
-Analysis Method
-Paslanmaz Çelik Spektrometrik Analiz
-C  0.019  %  ASTM E1086  
-Si  0.418  %  ASTM E1086  
-Mn  1.109  %  ASTM E1086  
-P  0.032  %  ASTM E1086  
-S  0.0050  %  ASTM E1086  
-Cr  18.55  %  ASTM E1086  
-Ni  8.295  %  ASTM E1086  
-Mo  0.030  %  ASTM E1086  
-Cu  0.025  %  ASTM E1086  
-Fe+Diğer  71.03  %  ASTM E1086  
-Mühür / Kaşe
-SealYayımlandığı Tarih
-Date
-27/09/2023Deney Sorumlusu
-Person In Charge Of Test
-Deney Personeli
-İbrahim KILINÇASLAN
-Evrakın doğrulanması için  “http://www.teknolab.info/eimza/evrak_sorgula.aspx”  adresinden ”2023/I‐02891” kodu ile erişebilirsiniz. 
-Bu belge 5070 sayılı elektronik imza kanununa göre güvenli elektronik imza ile imzalanmıştır.
-Bu rapor, laboratuvarın yazılı izni olmadan kısmen kopyalanıp çoğaltılamaz. İmzasız raporlar gerçersizdir. 
-This report, shall not be reproduced other then in full except with the permission of the laboratory. 
-Testing resports without signature are not valid.
-4 / 46 
-F.7.8-001 / (25.02.2023/01)TEKNOLAB TEKNOLOJİ LABORATUVAR HİZMETLERİ LİMİTED
-ŞİRKETİ
-İkitelli Organize Sanayi Bölgesi Pik Dokümcüler Sit. B6 Blok No:23 Başakşehir İSTANBUL/TÜRKİYEAB-0646-T
-2023/PRT‐İ/00615
-10-2023
-Lab. Numune No/Rapor No
-Lab. Order No/Report No2023/I-02892
-Deneyin Yapıldığı Tarih
-Date of Test02/10/2023
-Numune Adı, Tarifi, 
-(Müşteri tarafından beyan edilmiştir.)
-Name, identity (Declared by Customer)Mafsal Pimi 4.Numune
-Ortam Şartları
-Environmental Conditions24°C
-Açıklama
-Description
-Parametreler
-ParametersAnaliz Sonuçları
-Result of analysisBirim
-UnitDeney Metodu
-Analysis Method
-Paslanmaz Çelik Spektrometrik Analiz
-C  0.018  %  ASTM E1086  
-Si  0.415  %  ASTM E1086  
-Mn  1.126  %  ASTM E1086  
-P  0.031  %  ASTM E1086  
-S  0.0053  %  ASTM E1086  
-Cr  18.50  %  ASTM E1086  
-Ni  8.291  %  ASTM E1086  
-Mo  0.030  %  ASTM E1086  
-Cu  0.026  %  ASTM E1086  
-Fe+Diğer  71.07  %  ASTM E1086  
-Mühür / Kaşe
-SealYayımlandığı Tarih
-Date
-27/09/2023Deney Sorumlusu
-Person In Charge Of Test
-Deney Personeli
-İbrahim KILINÇASLAN
-Evrakın doğrulanması için  “http://www.teknolab.info/eimza/evrak_sorgula.aspx”  adresinden ”2023/I‐02892” kodu ile erişebilirsiniz. 
-Bu belge 5070 sayılı elektronik imza kanununa göre güvenli elektronik imza ile imzalanmıştır.
-Bu rapor, laboratuvarın yazılı izni olmadan kısmen kopyalanıp çoğaltılamaz. İmzasız raporlar gerçersizdir. 
-This report, shall not be reproduced other then in full except with the permission of the laboratory. 
-Testing resports without signature are not valid.
-5 / 46 
-F.7.8-001 / (25.02.2023/01)TEKNOLAB TEKNOLOJİ LABORATUVAR HİZMETLERİ LİMİTED
-ŞİRKETİ
-İkitelli Organize Sanayi Bölgesi Pik Dokümcüler Sit. B6 Blok No:23 Başakşehir İSTANBUL/TÜRKİYEAB-0646-T
-2023/PRT‐İ/00615
-10-2023
-Lab. Numune No/Rapor No
-Lab. Order No/Report No2023/I-02893
-Deneyin Yapıldığı Tarih
-Date of Test02/10/2023
-Numune Adı, Tarifi, 
-(Müşteri tarafından beyan edilmiştir.)
-Name, identity (Declared by Customer)Mafsal Pimi 5.Numune
-Ortam Şartları
-Environmental Conditions24°C
-Açıklama
-Description
-Parametreler
-ParametersAnaliz Sonuçları
-Result of analysisBirim
-UnitDeney Metodu
-Analysis Method
-Paslanmaz Çelik Spektrometrik Analiz
-C  0.020  %  ASTM E1086  
-Si  0.418  %  ASTM E1086  
-Mn  1.124  %  ASTM E1086  
-P  0.031  %  ASTM E1086  
-S  0.0049  %  ASTM E1086  
-Cr  18.46  %  ASTM E1086  
-Ni  8.345  %  ASTM E1086  
-Mo  0.030  %  ASTM E1086  
-Cu  0.026  %  ASTM E1086  
-Fe+Diğer  71.07  %  ASTM E1086  
-Mühür / Kaşe
-SealYayımlandığı Tarih
-Date
-27/09/2023Deney Sorumlusu
-Person In Charge Of Test
-Deney Personeli
-İbrahim KILINÇASLAN
-Evrakın doğrulanması için  “http://www.teknolab.info/eimza/evrak_sorgula.aspx”  adresinden ”2023/I‐02893” kodu ile erişebilirsiniz. 
-Bu belge 5070 sayılı elektronik imza kanununa göre güvenli elektronik imza ile imzalanmıştır.
-Bu rapor, laboratuvarın yazılı izni olmadan kısmen kopyalanıp çoğaltılamaz. İmzasız raporlar gerçersizdir. 
-This report, shall not be reproduced other then in full except with the permission of the laboratory. 
-Testing resports without signature are not valid.
-6 / 46 
-F.7.8-001 / (25.02.2023/01)TEKNOLAB TEKNOLOJİ LABORATUVAR HİZMETLERİ LİMİTED
-ŞİRKETİ
-İkitelli Organize Sanayi Bölgesi Pik Dokümcüler Sit. B6 Blok No:23 Başakşehir İSTANBUL/TÜRKİYEAB-0646-T
-2023/PRT‐İ/00615
-10-2023
-Lab. Numune No/Rapor No
-Lab. Order No/Report No2023/I-02894
-Deneyin Yapıldığı Tarih
-Date of Test02/10/2023
-Numune Adı, Tarifi, 
-(Müşteri tarafından beyan edilmiştir.)
-Name, identity (Declared by Customer)Kilit Mekanizması 1.Numune
-Ortam Şartları
-Environmental Conditions24°C
-Açıklama
-Description
-Parametreler
-ParametersAnaliz Sonuçları
-Result of analysisBirim
-UnitDeney Metodu
-Analysis Method
-Paslanmaz Çelik Spektrometrik Analiz
-C  0.022  %  ASTM E1086  
-Si  0.422  %  ASTM E1086  
-Mn  1.125  %  ASTM E1086  
-P  0.032  %  ASTM E1086  
-S  0.0051  %  ASTM E1086  
-Cr  18.55  %  ASTM E1086  
-Ni  8.273  %  ASTM E1086  
-Mo  0.030  %  ASTM E1086  
-Cu  0.026  %  ASTM E1086  
-Fe+Diğer  71.04  %  ASTM E1086  
-Mühür / Kaşe
-SealYayımlandığı Tarih
-Date
-27/09/2023Deney Sorumlusu
-Person In Charge Of Test
-Deney Personeli
-İbrahim KILINÇASLAN
-Evrakın doğrulanması için  “http://www.teknolab.info/eimza/evrak_sorgula.aspx”  adresinden ”2023/I‐02894” kodu ile erişebilirsiniz. 
-Bu belge 5070 sayılı elektronik imza kanununa göre güvenli elektronik imza ile imzalanmıştır.
-Bu rapor, laboratuvarın yazılı izni olmadan kısmen kopyalanıp çoğaltılamaz. İmzasız raporlar gerçersizdir. 
-This report, shall not be reproduced other then in full except with the permission of the laboratory. 
-Testing resports without signature are not valid.
-7 / 46 
-F.7.8-001 / (25.02.2023/01)TEKNOLAB TEKNOLOJİ LABORATUVAR HİZMETLERİ LİMİTED
-ŞİRKETİ
-İkitelli Organize Sanayi Bölgesi Pik Dokümcüler Sit. B6 Blok No:23 Başakşehir İSTANBUL/TÜRKİYEAB-0646-T
-2023/PRT‐İ/00615
-10-2023
-Lab. Numune No/Rapor No
-Lab. Order No/Report No2023/I-02895
-Deneyin Yapıldığı Tarih
-Date of Test02/10/2023
-Numune Adı, Tarifi, 
-(Müşteri tarafından beyan edilmiştir.)
-Name, identity (Declared by Customer)Kilit Mekanizması 2.Numune
-Ortam Şartları
-Environmental Conditions24°C
-Açıklama
-Description
-Parametreler
-ParametersAnaliz Sonuçları
-Result of analysisBirim
-UnitDeney Metodu
-Analysis Method
-Paslanmaz Çelik Spektrometrik Analiz
-C  0.023  %  ASTM E1086  
-Si  0.415  %  ASTM E1086  
-Mn  1.131  %  ASTM E1086  
-P  0.030  %  ASTM E1086  
-S  0.0047  %  ASTM E1086  
-Cr  18.39  %  ASTM E1086  
-Ni  8.436  %  ASTM E1086  
-Mo  0.029  %  ASTM E1086  
-Cu  0.026  %  ASTM E1086  
-Fe+Diğer  71.04  %  ASTM E1086  
-Mühür / Kaşe
-SealYayımlandığı Tarih
-Date
-27/09/2023Deney Sorumlusu
-Person In Charge Of Test
-Deney Personeli
-İbrahim KILINÇASLAN
-Evrakın doğrulanması için  “http://www.teknolab.info/eimza/evrak_sorgula.aspx”  adresinden ”2023/I‐02895” kodu ile erişebilirsiniz. 
-Bu belge 5070 sayılı elektronik imza kanununa göre güvenli elektronik imza ile imzalanmıştır.
-Bu rapor, laboratuvarın yazılı izni olmadan kısmen kopyalanıp çoğaltılamaz. İmzasız raporlar gerçersizdir. 
-This report, shall not be reproduced other then in full except with the permission of the laboratory. 
-Testing resports without signature are not valid.
-8 / 46 
-F.7.8-001 / (25.02.2023/01)TEKNOLAB TEKNOLOJİ LABORATUVAR HİZMETLERİ LİMİTED
-ŞİRKETİ
-İkitelli Organize Sanayi Bölgesi Pik Dokümcüler Sit. B6 Blok No:23 Başakşehir İSTANBUL/TÜRKİYEAB-0646-T
-2023/PRT‐İ/00615
-10-2023
-Lab. Numune No/Rapor No
-Lab. Order No/Report No2023/I-02896
-Deneyin Yapıldığı Tarih
-Date of Test02/10/2023
-Numune Adı, Tarifi, 
-(Müşteri tarafından beyan edilmiştir.)
-Name, identity (Declared by Customer)Kilit Mekanizması 3.Numune
-Ortam Şartları
-Environmental Conditions24°C
-Açıklama
-Description
-Parametreler
-ParametersAnaliz Sonuçları
-Result of analysisBirim
-UnitDeney Metodu
-Analysis Method
-Paslanmaz Çelik Spektrometrik Analiz
-C  0.020  %  ASTM E1086  
-Si  0.412  %  ASTM E1086  
-Mn  1.130  %  ASTM E1086  
-P  0.028  %  ASTM E1086  
-S  0.0045  %  ASTM E1086  
-Cr  18.43  %  ASTM E1086  
-Ni  8.388  %  ASTM E1086  
-Mo  0.030  %  ASTM E1086  
-Cu  0.026  %  ASTM E1086  
-Fe+Diğer  71.05  %  ASTM E1086  
-Mühür / Kaşe
-SealYayımlandığı Tarih
-Date
-27/09/2023Deney Sorumlusu
-Person In Charge Of Test
-Deney Personeli
-İbrahim KILINÇASLAN
-Evrakın doğrulanması için  “http://www.teknolab.info/eimza/evrak_sorgula.aspx”  adresinden ”2023/I‐02896” kodu ile erişebilirsiniz. 
-Bu belge 5070 sayılı elektronik imza kanununa göre güvenli elektronik imza ile imzalanmıştır.
-Bu rapor, laboratuvarın yazılı izni olmadan kısmen kopyalanıp çoğaltılamaz. İmzasız raporlar gerçersizdir. 
-This report, shall not be reproduced other then in full except with the permission of the laboratory. 
-Testing resports without signature are not valid.
-9 / 46 
-F.7.8-001 / (25.02.2023/01)TEKNOLAB TEKNOLOJİ LABORATUVAR HİZMETLERİ LİMİTED
-ŞİRKETİ
-İkitelli Organize Sanayi Bölgesi Pik Dokümcüler Sit. B6 Blok No:23 Başakşehir İSTANBUL/TÜRKİYEAB-0646-T
-2023/PRT‐İ/00615
-10-2023
-Lab. Numune No/Rapor No
-Lab. Order No/Report No2023/I-02897
-Deneyin Yapıldığı Tarih
-Date of Test02/10/2023
-Numune Adı, Tarifi, 
-(Müşteri tarafından beyan edilmiştir.)
-Name, identity (Declared by Customer)Kilit Mekanizması 4.Numune
-Ortam Şartları
-Environmental Conditions24°C
-Açıklama
-Description
-Parametreler
-ParametersAnaliz Sonuçları
-Result of analysisBirim
-UnitDeney Metodu
-Analysis Method
-Paslanmaz Çelik Spektrometrik Analiz
-C  0.021  %  ASTM E1086  
-Si  0.412  %  ASTM E1086  
-Mn  1.136  %  ASTM E1086  
-P  0.031  %  ASTM E1086  
-S  0.0042  %  ASTM E1086  
-Cr  18.36  %  ASTM E1086  
-Ni  8.442  %  ASTM E1086  
-Mo  0.029  %  ASTM E1086  
-Cu  0.026  %  ASTM E1086  
-Fe+Diğer  71.06  %  ASTM E1086  
-Mühür / Kaşe
-SealYayımlandığı Tarih
-Date
-27/09/2023Deney Sorumlusu
-Person In Charge Of Test
-Deney Personeli
-İbrahim KILINÇASLAN
-Evrakın doğrulanması için  “http://www.teknolab.info/eimza/evrak_sorgula.aspx”  adresinden ”2023/I‐02897” kodu ile erişebilirsiniz. 
-Bu belge 5070 sayılı elektronik imza kanununa göre güvenli elektronik imza ile imzalanmıştır.
-Bu rapor, laboratuvarın yazılı izni olmadan kısmen kopyalanıp çoğaltılamaz. İmzasız raporlar gerçersizdir. 
-This report, shall not be reproduced other then in full except with the permission of the laboratory. 
-Testing resports without signature are not valid.
-10 / 46 
-F.7.8-001 / (25.02.2023/01)TEKNOLAB TEKNOLOJİ LABORATUVAR HİZMETLERİ LİMİTED
-ŞİRKETİ
-İkitelli Organize Sanayi Bölgesi Pik Dokümcüler Sit. B6 Blok No:23 Başakşehir İSTANBUL/TÜRKİYEAB-0646-T
-2023/PRT‐İ/00615
-10-2023
-Lab. Numune No/Rapor No
-Lab. Order No/Report No2023/I-02898
-Deneyin Yapıldığı Tarih
-Date of Test02/10/2023
-Numune Adı, Tarifi, 
-(Müşteri tarafından beyan edilmiştir.)
-Name, identity (Declared by Customer)Kilit Mekanizması 5.Numune
-Ortam Şartları
-Environmental Conditions24°C
-Açıklama
-Description
-Parametreler
-ParametersAnaliz Sonuçları
-Result of analysisBirim
-UnitDeney Metodu
-Analysis Method
-Paslanmaz Çelik Spektrometrik Analiz
-C  0.020  %  ASTM E1086  
-Si  0.409  %  ASTM E1086  
-Mn  1.136  %  ASTM E1086  
-P  0.030  %  ASTM E1086  
-S  0.0045  %  ASTM E1086  
-Cr  18.32  %  ASTM E1086  
-Ni  8.415  %  ASTM E1086  
-Mo  0.030  %  ASTM E1086  
-Cu  0.026  %  ASTM E1086  
-Fe+Diğer  71.13  %  ASTM E1086  
-Mühür / Kaşe
-SealYayımlandığı Tarih
-Date
-27/09/2023Deney Sorumlusu
-Person In Charge Of Test
-Deney Personeli
-İbrahim KILINÇASLAN
-Evrakın doğrulanması için  “http://www.teknolab.info/eimza/evrak_sorgula.aspx”  adresinden ”2023/I‐02898” kodu ile erişebilirsiniz. 
-Bu belge 5070 sayılı elektronik imza kanununa göre güvenli elektronik imza ile imzalanmıştır.
-Bu rapor, laboratuvarın yazılı izni olmadan kısmen kopyalanıp çoğaltılamaz. İmzasız raporlar gerçersizdir. 
-This report, shall not be reproduced other then in full except with the permission of the laboratory. 
-Testing resports without signature are not valid.
-11 / 46 
-F.7.8-001 / (25.02.2023/01)TEKNOLAB TEKNOLOJİ LABORATUVAR HİZMETLERİ LİMİTED
-ŞİRKETİ
-İkitelli Organize Sanayi Bölgesi Pik Dokümcüler Sit. B6 Blok No:23 Başakşehir İSTANBUL/TÜRKİYEAB-0646-T
-2023/PRT‐İ/00615
-10-2023
-Lab. Numune No/Rapor No
-Lab. Order No/Report No2023/I-02899
-Deneyin Yapıldığı Tarih
-Date of Test10/10/2023
-Numune Adı, Tarifi, 
-(Müşteri tarafından beyan edilmiştir.)
-Name, identity (Declared by Customer)Gövde Kapak Malzemesi 1.Numune
-Ortam Şartları
-Environmental Conditions24°C
-Açıklama
-Description
-Parametreler
-ParametersAnaliz Sonuçları
-Result of analysisBirim
-UnitDeney Metodu
-Analysis Method
-Dökme Demir Spektrometrik Analiz (Cast Iron Spectrometric Analysis)
-Ti  0.042  %  ASTM E1999  
-*Mg  0.040  %  ASTM E1999  
-C  3.688  %  ASTM E1999  
-Si  2.513  %  ASTM E1999  
-Mn  0.388  %  ASTM E1999  
-P  0.041  %  ASTM E1999  
-S  0.0069  %  ASTM E1999  
-Cr  0.017  %  ASTM E1999  
-Ni  <0.010  %  ASTM E1999  
-Cu  0.155  %  ASTM E1999  
-V  0.021  %  ASTM E1999  
-Fe+Diğer  Kalan  %  ASTM E1999  
-Mühür / Kaşe
-SealYayımlandığı Tarih
-Date
-27/09/2023Deney Sorumlusu
-Person In Charge Of Test
-Deney Personeli
-İbrahim KILINÇASLAN
-Evrakın doğrulanması için  “http://www.teknolab.info/eimza/evrak_sorgula.aspx”  adresinden ”2023/I‐02899” kodu ile erişebilirsiniz. 
-Bu belge 5070 sayılı elektronik imza kanununa göre güvenli elektronik imza ile imzalanmıştır.
-Bu rapor, laboratuvarın yazılı izni olmadan kısmen kopyalanıp çoğaltılamaz. İmzasız raporlar gerçersizdir. 
-This report, shall not be reproduced other then in full except with the permission of the laboratory. 
-Testing resports without signature are not valid.
-12 / 46 
-F.7.8-001 / (25.02.2023/01)TEKNOLAB TEKNOLOJİ LABORATUVAR HİZMETLERİ LİMİTED
-ŞİRKETİ
-İkitelli Organize Sanayi Bölgesi Pik Dokümcüler Sit. B6 Blok No:23 Başakşehir İSTANBUL/TÜRKİYEAB-0646-T
-2023/PRT‐İ/00615
-10-2023
-Lab. Numune No/Rapor No
-Lab. Order No/Report No2023/I-02900
-Deneyin Yapıldığı Tarih
-Date of Test10/10/2023
-Numune Adı, Tarifi, 
-(Müşteri tarafından beyan edilmiştir.)
-Name, identity (Declared by Customer)Gövde Kapak Malzemesi 2.Numune
-Ortam Şartları
-Environmental Conditions24°C
-Açıklama
-Description
-Parametreler
-ParametersAnaliz Sonuçları
-Result of analysisBirim
-UnitDeney Metodu
-Analysis Method
-Dökme Demir Spektrometrik Analiz (Cast Iron Spectrometric Analysis)
-Ti  0.041  %  ASTM E1999  
-*Mg  0.042  %  ASTM E1999  
-C  3.671  %  ASTM E1999  
-Si  2.703  %  ASTM E1999  
-Mn  0.404  %  ASTM E1999  
-P  0.038  %  ASTM E1999  
-S  0.0068  %  ASTM E1999  
-Cr  0.013  %  ASTM E1999  
-Ni  <0.010  %  ASTM E1999  
-Cu  0.252  %  ASTM E1999  
-V  0.019  %  ASTM E1999  
-Fe+Diğer  Kalan  %  ASTM E1999  
-Mühür / Kaşe
-SealYayımlandığı Tarih
-Date
-27/09/2023Deney Sorumlusu
-Person In Charge Of Test
-Deney Personeli
-İbrahim KILINÇASLAN
-Evrakın doğrulanması için  “http://www.teknolab.info/eimza/evrak_sorgula.aspx”  adresinden ”2023/I‐02900” kodu ile erişebilirsiniz. 
-Bu belge 5070 sayılı elektronik imza kanununa göre güvenli elektronik imza ile imzalanmıştır.
-Bu rapor, laboratuvarın yazılı izni olmadan kısmen kopyalanıp çoğaltılamaz. İmzasız raporlar gerçersizdir. 
-This report, shall not be reproduced other then in full except with the permission of the laboratory. 
-Testing resports without signature are not valid.
-13 / 46 
-F.7.8-001 / (25.02.2023/01)TEKNOLAB TEKNOLOJİ LABORATUVAR HİZMETLERİ LİMİTED
-ŞİRKETİ
-İkitelli Organize Sanayi Bölgesi Pik Dokümcüler Sit. B6 Blok No:23 Başakşehir İSTANBUL/TÜRKİYEAB-0646-T
-2023/PRT‐İ/00615
-10-2023
-Lab. Numune No/Rapor No
-Lab. Order No/Report No2023/I-02901
-Deneyin Yapıldığı Tarih
-Date of Test10/10/2023
-Numune Adı, Tarifi, 
-(Müşteri tarafından beyan edilmiştir.)
-Name, identity (Declared by Customer)Gövde Kapak Malzemesi 3.Numune
-Ortam Şartları
-Environmental Conditions24°C
-Açıklama
-Description
-Parametreler
-ParametersAnaliz Sonuçları
-Result of analysisBirim
-UnitDeney Metodu
-Analysis Method
-Dökme Demir Spektrometrik Analiz (Cast Iron Spectrometric Analysis)
-Ti  0.046  %  ASTM E1999  
-*Mg  0.041  %  ASTM E1999  
-C  3.702  %  ASTM E1999  
-Si  2.408  %  ASTM E1999  
-Mn  0.380  %  ASTM E1999  
-P  0.039  %  ASTM E1999  
-S  0.0070  %  ASTM E1999  
-Cr  0.013  %  ASTM E1999  
-Ni  <0.010  %  ASTM E1999  
-Cu  0.205  %  ASTM E1999  
-V  0.019  %  ASTM E1999  
-Fe+Diğer  Kalan  %  ASTM E1999  
-Mühür / Kaşe
-SealYayımlandığı Tarih
-Date
-27/09/2023Deney Sorumlusu
-Person In Charge Of Test
-Deney Personeli
-İbrahim KILINÇASLAN
-Evrakın doğrulanması için  “http://www.teknolab.info/eimza/evrak_sorgula.aspx”  adresinden ”2023/I‐02901” kodu ile erişebilirsiniz. 
-Bu belge 5070 sayılı elektronik imza kanununa göre güvenli elektronik imza ile imzalanmıştır.
-Bu rapor, laboratuvarın yazılı izni olmadan kısmen kopyalanıp çoğaltılamaz. İmzasız raporlar gerçersizdir. 
-This report, shall not be reproduced other then in full except with the permission of the laboratory. 
-Testing resports without signature are not valid.
-14 / 46 
-F.7.8-001 / (25.02.2023/01)TEKNOLAB TEKNOLOJİ LABORATUVAR HİZMETLERİ LİMİTED
-ŞİRKETİ
-İkitelli Organize Sanayi Bölgesi Pik Dokümcüler Sit. B6 Blok No:23 Başakşehir İSTANBUL/TÜRKİYEAB-0646-T
-2023/PRT‐İ/00615
-10-2023
-Lab. Numune No/Rapor No
-Lab. Order No/Report No2023/I-02902
-Deneyin Yapıldığı Tarih
-Date of Test10/10/2023
-Numune Adı, Tarifi, 
-(Müşteri tarafından beyan edilmiştir.)
-Name, identity (Declared by Customer)Gövde Kapak Malzemesi 4.Numune
-Ortam Şartları
-Environmental Conditions24°C
-Açıklama
-Description
-Parametreler
-ParametersAnaliz Sonuçları
-Result of analysisBirim
-UnitDeney Metodu
-Analysis Method
-Dökme Demir Spektrometrik Analiz (Cast Iron Spectrometric Analysis)
-Ti  0.044  %  ASTM E1999  
-*Mg  0.039  %  ASTM E1999  
-C  3.632  %  ASTM E1999  
-Si  2.464  %  ASTM E1999  
-Mn  0.378  %  ASTM E1999  
-P  0.042  %  ASTM E1999  
-S  0.0069  %  ASTM E1999  
-Cr  <0.010  %  ASTM E1999  
-Ni  <0.010  %  ASTM E1999  
-Cu  0.206  %  ASTM E1999  
-V  0.018  %  ASTM E1999  
-Fe+Diğer  Kalan  %  ASTM E1999  
-Mühür / Kaşe
-SealYayımlandığı Tarih
-Date
-27/09/2023Deney Sorumlusu
-Person In Charge Of Test
-Deney Personeli
-İbrahim KILINÇASLAN
-Evrakın doğrulanması için  “http://www.teknolab.info/eimza/evrak_sorgula.aspx”  adresinden ”2023/I‐02902” kodu ile erişebilirsiniz. 
-Bu belge 5070 sayılı elektronik imza kanununa göre güvenli elektronik imza ile imzalanmıştır.
-Bu rapor, laboratuvarın yazılı izni olmadan kısmen kopyalanıp çoğaltılamaz. İmzasız raporlar gerçersizdir. 
-This report, shall not be reproduced other then in full except with the permission of the laboratory. 
-Testing resports without signature are not valid.
-15 / 46 
-F.7.8-001 / (25.02.2023/01)TEKNOLAB TEKNOLOJİ LABORATUVAR HİZMETLERİ LİMİTED
-ŞİRKETİ
-İkitelli Organize Sanayi Bölgesi Pik Dokümcüler Sit. B6 Blok No:23 Başakşehir İSTANBUL/TÜRKİYEAB-0646-T
-2023/PRT‐İ/00615
-10-2023
-Lab. Numune No/Rapor No
-Lab. Order No/Report No2023/I-02903
-Deneyin Yapıldığı Tarih
-Date of Test10/10/2023
-Numune Adı, Tarifi, 
-(Müşteri tarafından beyan edilmiştir.)
-Name, identity (Declared by Customer)Gövde Kapak Malzemesi 5.Numune
-Ortam Şartları
-Environmental Conditions24°C
-Açıklama
-Description
-Parametreler
-ParametersAnaliz Sonuçları
-Result of analysisBirim
-UnitDeney Metodu
-Analysis Method
-Dökme Demir Spektrometrik Analiz (Cast Iron Spectrometric Analysis)
-Ti  0.041  %  ASTM E1999  
-*Mg  0.039  %  ASTM E1999  
-C  3.629  %  ASTM E1999  
-Si  2.415  %  ASTM E1999  
-Mn  0.375  %  ASTM E1999  
-P  0.041  %  ASTM E1999  
-S  0.0070  %  ASTM E1999  
-Cr  0.018  %  ASTM E1999  
-Ni  <0.010  %  ASTM E1999  
-Cu  0.144  %  ASTM E1999  
-V  0.022  %  ASTM E1999  
-Fe+Diğer  Kalan  %  ASTM E1999  
-Mühür / Kaşe
-SealYayımlandığı Tarih
-Date
-27/09/2023Deney Sorumlusu
-Person In Charge Of Test
-Deney Personeli
-İbrahim KILINÇASLAN
-Evrakın doğrulanması için  “http://www.teknolab.info/eimza/evrak_sorgula.aspx”  adresinden ”2023/I‐02903” kodu ile erişebilirsiniz. 
-Bu belge 5070 sayılı elektronik imza kanununa göre güvenli elektronik imza ile imzalanmıştır.
-Bu rapor, laboratuvarın yazılı izni olmadan kısmen kopyalanıp çoğaltılamaz. İmzasız raporlar gerçersizdir. 
-This report, shall not be reproduced other then in full except with the permission of the laboratory. 
-Testing resports without signature are not valid.
-16 / 46 
-F.7.8-001 / (25.02.2023/01)TEKNOLAB TEKNOLOJİ LABORATUVAR HİZMETLERİ LİMİTED
-ŞİRKETİ
-İkitelli Organize Sanayi Bölgesi Pik Dokümcüler Sit. B6 Blok No:23 Başakşehir İSTANBUL/TÜRKİYEAB-0646-T
-2023/PRT‐İ/00615
-10-2023
-Lab. Numune No/Rapor No
-Lab. Order No/Report No2023/I-02904
-Deneyin Yapıldığı Tarih
-Date of Test10/10/2023
-Numune Adı, Tarifi, 
-(Müşteri tarafından beyan edilmiştir.)
-Name, identity (Declared by Customer)Gövde Kapak Malzemesi 1.Numune
-Ortam Şartları
-Environmental Conditions24°C
-Açıklama
-Description
-Parametreler
-ParametersAnaliz Sonuçları
-Result of analysisBirim
-UnitDeney Metodu
-Analysis Method
-Brinell Sertlik (Brinell Hardness Test)
-1.Ölçüm Brinell   195.10  HBW 2,5/187,5  EN ISO 6506-1  
-2.Ölçüm Brinell   193.21  HBW 2,5/187,5  EN ISO 6506-1  
-3.Ölçüm Brinell   190.44  HBW 2,5/187,5  EN ISO 6506-1  
-Mühür / Kaşe
-SealYayımlandığı Tarih
-Date
-27/09/2023Deney Sorumlusu
-Person In Charge Of Test
-Deney Personeli
-İbrahim KILINÇASLAN
-Evrakın doğrulanması için  “http://www.teknolab.info/eimza/evrak_sorgula.aspx”  adresinden ”2023/I‐02904” kodu ile erişebilirsiniz. 
-Bu belge 5070 sayılı elektronik imza kanununa göre güvenli elektronik imza ile imzalanmıştır.
-Bu rapor, laboratuvarın yazılı izni olmadan kısmen kopyalanıp çoğaltılamaz. İmzasız raporlar gerçersizdir. 
-This report, shall not be reproduced other then in full except with the permission of the laboratory. 
-Testing resports without signature are not valid.
-17 / 46 
-F.7.8-001 / (25.02.2023/01)TEKNOLAB TEKNOLOJİ LABORATUVAR HİZMETLERİ LİMİTED
-ŞİRKETİ
-İkitelli Organize Sanayi Bölgesi Pik Dokümcüler Sit. B6 Blok No:23 Başakşehir İSTANBUL/TÜRKİYEAB-0646-T
-2023/PRT‐İ/00615
-10-2023
-Lab. Numune No/Rapor No
-Lab. Order No/Report No2023/I-02905
-Deneyin Yapıldığı Tarih
-Date of Test10/10/2023
-Numune Adı, Tarifi, 
-(Müşteri tarafından beyan edilmiştir.)
-Name, identity (Declared by Customer)Gövde Kapak Malzemesi 2.Numune
-Ortam Şartları
-Environmental Conditions24°C
-Açıklama
-Description
-Parametreler
-ParametersAnaliz Sonuçları
-Result of analysisBirim
-UnitDeney Metodu
-Analysis Method
-Brinell Sertlik (Brinell Hardness Test)
-1.Ölçüm Brinell   189.22  HBW 2,5/187,5  EN ISO 6506-1  
-2.Ölçüm Brinell   190.34  HBW 2,5/187,5  EN ISO 6506-1  
-3.Ölçüm Brinell   190.05  HBW 2,5/187,5  EN ISO 6506-1  
-Mühür / Kaşe
-SealYayımlandığı Tarih
-Date
-27/09/2023Deney Sorumlusu
-Person In Charge Of Test
-Deney Personeli
-İbrahim KILINÇASLAN
-Evrakın doğrulanması için  “http://www.teknolab.info/eimza/evrak_sorgula.aspx”  adresinden ”2023/I‐02905” kodu ile erişebilirsiniz. 
-Bu belge 5070 sayılı elektronik imza kanununa göre güvenli elektronik imza ile imzalanmıştır.
-Bu rapor, laboratuvarın yazılı izni olmadan kısmen kopyalanıp çoğaltılamaz. İmzasız raporlar gerçersizdir. 
-This report, shall not be reproduced other then in full except with the permission of the laboratory. 
-Testing resports without signature are not valid.
-18 / 46 
-F.7.8-001 / (25.02.2023/01)TEKNOLAB TEKNOLOJİ LABORATUVAR HİZMETLERİ LİMİTED
-ŞİRKETİ
-İkitelli Organize Sanayi Bölgesi Pik Dokümcüler Sit. B6 Blok No:23 Başakşehir İSTANBUL/TÜRKİYEAB-0646-T
-2023/PRT‐İ/00615
-10-2023
-Lab. Numune No/Rapor No
-Lab. Order No/Report No2023/I-02906
-Deneyin Yapıldığı Tarih
-Date of Test10/10/2023
-Numune Adı, Tarifi, 
-(Müşteri tarafından beyan edilmiştir.)
-Name, identity (Declared by Customer)Gövde Kapak Malzemesi 3.Numune
-Ortam Şartları
-Environmental Conditions24°C
-Açıklama
-Description
-Parametreler
-ParametersAnaliz Sonuçları
-Result of analysisBirim
-UnitDeney Metodu
-Analysis Method
-Brinell Sertlik (Brinell Hardness Test)
-1.Ölçüm Brinell   196.89  HBW 2,5/187,5  EN ISO 6506-1  
-2.Ölçüm Brinell   194.36  HBW 2,5/187,5  EN ISO 6506-1  
-3.Ölçüm Brinell   194.30  HBW 2,5/187,5  EN ISO 6506-1  
-Mühür / Kaşe
-SealYayımlandığı Tarih
-Date
-27/09/2023Deney Sorumlusu
-Person In Charge Of Test
-Deney Personeli
-İbrahim KILINÇASLAN
-Evrakın doğrulanması için  “http://www.teknolab.info/eimza/evrak_sorgula.aspx”  adresinden ”2023/I‐02906” kodu ile erişebilirsiniz. 
-Bu belge 5070 sayılı elektronik imza kanununa göre güvenli elektronik imza ile imzalanmıştır.
-Bu rapor, laboratuvarın yazılı izni olmadan kısmen kopyalanıp çoğaltılamaz. İmzasız raporlar gerçersizdir. 
-This report, shall not be reproduced other then in full except with the permission of the laboratory. 
-Testing resports without signature are not valid.
-19 / 46 
-F.7.8-001 / (25.02.2023/01)TEKNOLAB TEKNOLOJİ LABORATUVAR HİZMETLERİ LİMİTED
-ŞİRKETİ
-İkitelli Organize Sanayi Bölgesi Pik Dokümcüler Sit. B6 Blok No:23 Başakşehir İSTANBUL/TÜRKİYEAB-0646-T
-2023/PRT‐İ/00615
-10-2023
-Lab. Numune No/Rapor No
-Lab. Order No/Report No2023/I-02907
-Deneyin Yapıldığı Tarih
-Date of Test10/10/2023
-Numune Adı, Tarifi, 
-(Müşteri tarafından beyan edilmiştir.)
-Name, identity (Declared by Customer)Gövde Kapak Malzemesi 4.Numune
-Ortam Şartları
-Environmental Conditions24°C
-Açıklama
-Description
-Parametreler
-ParametersAnaliz Sonuçları
-Result of analysisBirim
-UnitDeney Metodu
-Analysis Method
-Brinell Sertlik (Brinell Hardness Test)
-1.Ölçüm Brinell   190.18  HBW 2,5/187,5  EN ISO 6506-1  
-2.Ölçüm Brinell   190.28  HBW 2,5/187,5  EN ISO 6506-1  
-3.Ölçüm Brinell   192.52  HBW 2,5/187,5  EN ISO 6506-1  
-Mühür / Kaşe
-SealYayımlandığı Tarih
-Date
-27/09/2023Deney Sorumlusu
-Person In Charge Of Test
-Deney Personeli
-İbrahim KILINÇASLAN
-Evrakın doğrulanması için  “http://www.teknolab.info/eimza/evrak_sorgula.aspx”  adresinden ”2023/I‐02907” kodu ile erişebilirsiniz. 
-Bu belge 5070 sayılı elektronik imza kanununa göre güvenli elektronik imza ile imzalanmıştır.
-Bu rapor, laboratuvarın yazılı izni olmadan kısmen kopyalanıp çoğaltılamaz. İmzasız raporlar gerçersizdir. 
-This report, shall not be reproduced other then in full except with the permission of the laboratory. 
-Testing resports without signature are not valid.
-20 / 46 
-F.7.8-001 / (25.02.2023/01)TEKNOLAB TEKNOLOJİ LABORATUVAR HİZMETLERİ LİMİTED
-ŞİRKETİ
-İkitelli Organize Sanayi Bölgesi Pik Dokümcüler Sit. B6 Blok No:23 Başakşehir İSTANBUL/TÜRKİYEAB-0646-T
-2023/PRT‐İ/00615
-10-2023
-Lab. Numune No/Rapor No
-Lab. Order No/Report No2023/I-02908
-Deneyin Yapıldığı Tarih
-Date of Test10/10/2023
-Numune Adı, Tarifi, 
-(Müşteri tarafından beyan edilmiştir.)
-Name, identity (Declared by Customer)Gövde Kapak Malzemesi 5.Numune
-Ortam Şartları
-Environmental Conditions24°C
-Açıklama
-Description
-Parametreler
-ParametersAnaliz Sonuçları
-Result of analysisBirim
-UnitDeney Metodu
-Analysis Method
-Brinell Sertlik (Brinell Hardness Test)
-1.Ölçüm Brinell   190.35  HBW 2,5/187,5  EN ISO 6506-1  
-2.Ölçüm Brinell   189.40  HBW 2,5/187,5  EN ISO 6506-1  
-3.Ölçüm Brinell   192.09  HBW 2,5/187,5  EN ISO 6506-1  
-Mühür / Kaşe
-SealYayımlandığı Tarih
-Date
-27/09/2023Deney Sorumlusu
-Person In Charge Of Test
-Deney Personeli
-İbrahim KILINÇASLAN
-Evrakın doğrulanması için  “http://www.teknolab.info/eimza/evrak_sorgula.aspx”  adresinden ”2023/I‐02908” kodu ile erişebilirsiniz. 
-Bu belge 5070 sayılı elektronik imza kanununa göre güvenli elektronik imza ile imzalanmıştır.
-Bu rapor, laboratuvarın yazılı izni olmadan kısmen kopyalanıp çoğaltılamaz. İmzasız raporlar gerçersizdir. 
-This report, shall not be reproduced other then in full except with the permission of the laboratory. 
-Testing resports without signature are not valid.
-21 / 46 
-F.7.8-001 / (25.02.2023/01)TEKNOLAB TEKNOLOJİ LABORATUVAR HİZMETLERİ LİMİTED
-ŞİRKETİ
-İkitelli Organize Sanayi Bölgesi Pik Dokümcüler Sit. B6 Blok No:23 Başakşehir İSTANBUL/TÜRKİYEAB-0646-T
-2023/PRT‐İ/00615
-10-2023
-Lab. Numune No/Rapor No
-Lab. Order No/Report No2023/I-02909
-Deneyin Yapıldığı Tarih
-Date of Test10/10/2023
-Numune Adı, Tarifi, 
-(Müşteri tarafından beyan edilmiştir.)
-Name, identity (Declared by Customer)Gövde Kapak Malzemesi 1.Numune
-Ortam Şartları
-Environmental Conditions24°C
-Açıklama
-Description
-Parametreler
-ParametersAnaliz Sonuçları
-Result of analysisBirim
-UnitDeney Metodu
-Analysis Method
-Çekme Deneyi (Tensile Test)
-Çekme Gerilmesi (Rm)   562.00  N/mm^2  EN ISO 6892-1 Metod B  
-Rp0,2  370.00  N/mm^2  EN ISO 6892-1 Metod B  
-A5  7.000  %  EN ISO 6892-1 Metod B  
-Çekme Hızı   15.00  MPa/s  EN ISO 6892-1 Metod B  
-Mühür / Kaşe
-SealYayımlandığı Tarih
-Date
-27/09/2023Deney Sorumlusu
-Person In Charge Of Test
-Deney Personeli
-İbrahim KILINÇASLAN
-Evrakın doğrulanması için  “http://www.teknolab.info/eimza/evrak_sorgula.aspx”  adresinden ”2023/I‐02909” kodu ile erişebilirsiniz. 
-Bu belge 5070 sayılı elektronik imza kanununa göre güvenli elektronik imza ile imzalanmıştır.
-Bu rapor, laboratuvarın yazılı izni olmadan kısmen kopyalanıp çoğaltılamaz. İmzasız raporlar gerçersizdir. 
-This report, shall not be reproduced other then in full except with the permission of the laboratory. 
-Testing resports without signature are not valid.
-22 / 46 
-F.7.8-001 / (25.02.2023/01)TEKNOLAB TEKNOLOJİ LABORATUVAR HİZMETLERİ LİMİTED
-ŞİRKETİ
-İkitelli Organize Sanayi Bölgesi Pik Dokümcüler Sit. B6 Blok No:23 Başakşehir İSTANBUL/TÜRKİYEAB-0646-T
-2023/PRT‐İ/00615
-10-2023
-Lab. Numune No/Rapor No
-Lab. Order No/Report No2023/I-02910
-Deneyin Yapıldığı Tarih
-Date of Test10/10/2023
-Numune Adı, Tarifi, 
-(Müşteri tarafından beyan edilmiştir.)
-Name, identity (Declared by Customer)Gövde Kapak Malzemesi 2.Numune
-Ortam Şartları
-Environmental Conditions24°C
-Açıklama
-Description
-Parametreler
-ParametersAnaliz Sonuçları
-Result of analysisBirim
-UnitDeney Metodu
-Analysis Method
-Çekme Deneyi (Tensile Test)
-Çekme Gerilmesi (Rm)   558.00  N/mm^2  EN ISO 6892-1 Metod B  
-Rp0,2  377.00  N/mm^2  EN ISO 6892-1 Metod B  
-A5  8.000  %  EN ISO 6892-1 Metod B  
-Çekme Hızı   15.00  MPa/s  EN ISO 6892-1 Metod B  
-Mühür / Kaşe
-SealYayımlandığı Tarih
-Date
-27/09/2023Deney Sorumlusu
-Person In Charge Of Test
-Deney Personeli
-İbrahim KILINÇASLAN
-Evrakın doğrulanması için  “http://www.teknolab.info/eimza/evrak_sorgula.aspx”  adresinden ”2023/I‐02910” kodu ile erişebilirsiniz. 
-Bu belge 5070 sayılı elektronik imza kanununa göre güvenli elektronik imza ile imzalanmıştır.
-Bu rapor, laboratuvarın yazılı izni olmadan kısmen kopyalanıp çoğaltılamaz. İmzasız raporlar gerçersizdir. 
-This report, shall not be reproduced other then in full except with the permission of the laboratory. 
-Testing resports without signature are not valid.
-23 / 46 
-F.7.8-001 / (25.02.2023/01)TEKNOLAB TEKNOLOJİ LABORATUVAR HİZMETLERİ LİMİTED
-ŞİRKETİ
-İkitelli Organize Sanayi Bölgesi Pik Dokümcüler Sit. B6 Blok No:23 Başakşehir İSTANBUL/TÜRKİYEAB-0646-T
-2023/PRT‐İ/00615
-10-2023
-Lab. Numune No/Rapor No
-Lab. Order No/Report No2023/I-02911
-Deneyin Yapıldığı Tarih
-Date of Test10/10/2023
-Numune Adı, Tarifi, 
-(Müşteri tarafından beyan edilmiştir.)
-Name, identity (Declared by Customer)Gövde Kapak Malzemesi 3.Numune
-Ortam Şartları
-Environmental Conditions24°C
-Açıklama
-Description
-Parametreler
-ParametersAnaliz Sonuçları
-Result of analysisBirim
-UnitDeney Metodu
-Analysis Method
-Çekme Deneyi (Tensile Test)
-Çekme Gerilmesi (Rm)   552.00  N/mm^2  EN ISO 6892-1 Metod B  
-Rp0,2  367.00  N/mm^2  EN ISO 6892-1 Metod B  
-A5  11.00  %  EN ISO 6892-1 Metod B  
-Çekme Hızı   15.00  MPa/s  EN ISO 6892-1 Metod B  
-Mühür / Kaşe
-SealYayımlandığı Tarih
-Date
-27/09/2023Deney Sorumlusu
-Person In Charge Of Test
-Deney Personeli
-İbrahim KILINÇASLAN
-Evrakın doğrulanması için  “http://www.teknolab.info/eimza/evrak_sorgula.aspx”  adresinden ”2023/I‐02911” kodu ile erişebilirsiniz. 
-Bu belge 5070 sayılı elektronik imza kanununa göre güvenli elektronik imza ile imzalanmıştır.
-Bu rapor, laboratuvarın yazılı izni olmadan kısmen kopyalanıp çoğaltılamaz. İmzasız raporlar gerçersizdir. 
-This report, shall not be reproduced other then in full except with the permission of the laboratory. 
-Testing resports without signature are not valid.
-24 / 46 
-F.7.8-001 / (25.02.2023/01)TEKNOLAB TEKNOLOJİ LABORATUVAR HİZMETLERİ LİMİTED
-ŞİRKETİ
-İkitelli Organize Sanayi Bölgesi Pik Dokümcüler Sit. B6 Blok No:23 Başakşehir İSTANBUL/TÜRKİYEAB-0646-T
-2023/PRT‐İ/00615
-10-2023
-Lab. Numune No/Rapor No
-Lab. Order No/Report No2023/I-02912
-Deneyin Yapıldığı Tarih
-Date of Test10/10/2023
-Numune Adı, Tarifi, 
-(Müşteri tarafından beyan edilmiştir.)
-Name, identity (Declared by Customer)Gövde Kapak Malzemesi 4.Numune
-Ortam Şartları
-Environmental Conditions24°C
-Açıklama
-Description
-Parametreler
-ParametersAnaliz Sonuçları
-Result of analysisBirim
-UnitDeney Metodu
-Analysis Method
-Çekme Deneyi (Tensile Test)
-Çekme Gerilmesi (Rm)   570.00  N/mm^2  EN ISO 6892-1 Metod B  
-Rp0,2  377.00  N/mm^2  EN ISO 6892-1 Metod B  
-A5  10.00  %  EN ISO 6892-1 Metod B  
-Çekme Hızı   15.00  MPa/s  EN ISO 6892-1 Metod B  
-Mühür / Kaşe
-SealYayımlandığı Tarih
-Date
-27/09/2023Deney Sorumlusu
-Person In Charge Of Test
-Deney Personeli
-İbrahim KILINÇASLAN
-Evrakın doğrulanması için  “http://www.teknolab.info/eimza/evrak_sorgula.aspx”  adresinden ”2023/I‐02912” kodu ile erişebilirsiniz. 
-Bu belge 5070 sayılı elektronik imza kanununa göre güvenli elektronik imza ile imzalanmıştır.
-Bu rapor, laboratuvarın yazılı izni olmadan kısmen kopyalanıp çoğaltılamaz. İmzasız raporlar gerçersizdir. 
-This report, shall not be reproduced other then in full except with the permission of the laboratory. 
-Testing resports without signature are not valid.
-25 / 46 
-F.7.8-001 / (25.02.2023/01)TEKNOLAB TEKNOLOJİ LABORATUVAR HİZMETLERİ LİMİTED
-ŞİRKETİ
-İkitelli Organize Sanayi Bölgesi Pik Dokümcüler Sit. B6 Blok No:23 Başakşehir İSTANBUL/TÜRKİYEAB-0646-T
-2023/PRT‐İ/00615
-10-2023
-Lab. Numune No/Rapor No
-Lab. Order No/Report No2023/I-02913
-Deneyin Yapıldığı Tarih
-Date of Test10/10/2023
-Numune Adı, Tarifi, 
-(Müşteri tarafından beyan edilmiştir.)
-Name, identity (Declared by Customer)Gövde Kapak Malzemesi 5.Numune
-Ortam Şartları
-Environmental Conditions24°C
-Açıklama
-Description
-Parametreler
-ParametersAnaliz Sonuçları
-Result of analysisBirim
-UnitDeney Metodu
-Analysis Method
-Çekme Deneyi (Tensile Test)
-Çekme Gerilmesi (Rm)   639.00  N/mm^2  EN ISO 6892-1 Metod B  
-Rp0,2  390.00  N/mm^2  EN ISO 6892-1 Metod B  
-A5  10.00  %  EN ISO 6892-1 Metod B  
-Çekme Hızı   15.00  MPa/s  EN ISO 6892-1 Metod B  
-Mühür / Kaşe
-SealYayımlandığı Tarih
-Date
-27/09/2023Deney Sorumlusu
-Person In Charge Of Test
-Deney Personeli
-İbrahim KILINÇASLAN
-Evrakın doğrulanması için  “http://www.teknolab.info/eimza/evrak_sorgula.aspx”  adresinden ”2023/I‐02913” kodu ile erişebilirsiniz. 
-Bu belge 5070 sayılı elektronik imza kanununa göre güvenli elektronik imza ile imzalanmıştır.
-Bu rapor, laboratuvarın yazılı izni olmadan kısmen kopyalanıp çoğaltılamaz. İmzasız raporlar gerçersizdir. 
-This report, shall not be reproduced other then in full except with the permission of the laboratory. 
-Testing resports without signature are not valid.
-26 / 46 
-F.7.8-001 / (25.02.2023/01)TEKNOLAB TEKNOLOJİ LABORATUVAR HİZMETLERİ LİMİTED
-ŞİRKETİ
-İkitelli Organize Sanayi Bölgesi Pik Dokümcüler Sit. B6 Blok No:23 Başakşehir İSTANBUL/TÜRKİYEAB-0646-T
-2023/PRT‐İ/00615
-10-2023
-Lab. Numune No/Rapor No
-Lab. Order No/Report No2023/I-02914
-Deneyin Yapıldığı Tarih
-Date of Test10/10/2023
-Numune Adı, Tarifi, 
-(Müşteri tarafından beyan edilmiştir.)
-Name, identity (Declared by Customer)Kilit Mekanizması 1.Numune
-Ortam Şartları
-Environmental Conditions24°C
-Açıklama
-Description
-Parametreler
-ParametersAnaliz Sonuçları
-Result of analysisBirim
-UnitDeney Metodu
-Analysis Method
-Çekme Deneyi (Tensile Test)
-Çekme Gerilmesi (Rm)   728.00  N/mm^2  EN ISO 6892-1 Metod B  
-Rp0,2  605.00  N/mm^2  EN ISO 6892-1 Metod B  
-A5  34.00  %  EN ISO 6892-1 Metod B  
-Çekme Hızı   15.00  MPa/s  EN ISO 6892-1 Metod B  
-Mühür / Kaşe
-SealYayımlandığı Tarih
-Date
-27/09/2023Deney Sorumlusu
-Person In Charge Of Test
-Deney Personeli
-İbrahim KILINÇASLAN
-Evrakın doğrulanması için  “http://www.teknolab.info/eimza/evrak_sorgula.aspx”  adresinden ”2023/I‐02914” kodu ile erişebilirsiniz. 
-Bu belge 5070 sayılı elektronik imza kanununa göre güvenli elektronik imza ile imzalanmıştır.
-Bu rapor, laboratuvarın yazılı izni olmadan kısmen kopyalanıp çoğaltılamaz. İmzasız raporlar gerçersizdir. 
-This report, shall not be reproduced other then in full except with the permission of the laboratory. 
-Testing resports without signature are not valid.
-27 / 46 
-F.7.8-001 / (25.02.2023/01)TEKNOLAB TEKNOLOJİ LABORATUVAR HİZMETLERİ LİMİTED
-ŞİRKETİ
-İkitelli Organize Sanayi Bölgesi Pik Dokümcüler Sit. B6 Blok No:23 Başakşehir İSTANBUL/TÜRKİYEAB-0646-T
-2023/PRT‐İ/00615
-10-2023
-Lab. Numune No/Rapor No
-Lab. Order No/Report No2023/I-02915
-Deneyin Yapıldığı Tarih
-Date of Test10/10/2023
-Numune Adı, Tarifi, 
-(Müşteri tarafından beyan edilmiştir.)
-Name, identity (Declared by Customer)Kilit Mekanizması 2.Numune
-Ortam Şartları
-Environmental Conditions24°C
-Açıklama
-Description
-Parametreler
-ParametersAnaliz Sonuçları
-Result of analysisBirim
-UnitDeney Metodu
-Analysis Method
-Çekme Deneyi (Tensile Test)
-Çekme Gerilmesi (Rm)   736.00  N/mm^2  EN ISO 6892-1 Metod B  
-Rp0,2  611.00  N/mm^2  EN ISO 6892-1 Metod B  
-A5  34.00  %  EN ISO 6892-1 Metod B  
-Çekme Hızı   15.00  MPa/s  EN ISO 6892-1 Metod B  
-Mühür / Kaşe
-SealYayımlandığı Tarih
-Date
-27/09/2023Deney Sorumlusu
-Person In Charge Of Test
-Deney Personeli
-İbrahim KILINÇASLAN
-Evrakın doğrulanması için  “http://www.teknolab.info/eimza/evrak_sorgula.aspx”  adresinden ”2023/I‐02915” kodu ile erişebilirsiniz. 
-Bu belge 5070 sayılı elektronik imza kanununa göre güvenli elektronik imza ile imzalanmıştır.
-Bu rapor, laboratuvarın yazılı izni olmadan kısmen kopyalanıp çoğaltılamaz. İmzasız raporlar gerçersizdir. 
-This report, shall not be reproduced other then in full except with the permission of the laboratory. 
-Testing resports without signature are not valid.
-28 / 46 
-F.7.8-001 / (25.02.2023/01)TEKNOLAB TEKNOLOJİ LABORATUVAR HİZMETLERİ LİMİTED
-ŞİRKETİ
-İkitelli Organize Sanayi Bölgesi Pik Dokümcüler Sit. B6 Blok No:23 Başakşehir İSTANBUL/TÜRKİYEAB-0646-T
-2023/PRT‐İ/00615
-10-2023
-Lab. Numune No/Rapor No
-Lab. Order No/Report No2023/I-02916
-Deneyin Yapıldığı Tarih
-Date of Test10/10/2023
-Numune Adı, Tarifi, 
-(Müşteri tarafından beyan edilmiştir.)
-Name, identity (Declared by Customer)Kilit Mekanizması 3.Numune
-Ortam Şartları
-Environmental Conditions24°C
-Açıklama
-Description
-Parametreler
-ParametersAnaliz Sonuçları
-Result of analysisBirim
-UnitDeney Metodu
-Analysis Method
-Çekme Deneyi (Tensile Test)
-Çekme Gerilmesi (Rm)   701.00  N/mm^2  EN ISO 6892-1 Metod B  
-Rp0,2  373.00  N/mm^2  EN ISO 6892-1 Metod B  
-A5  50.00  %  EN ISO 6892-1 Metod B  
-Çekme Hızı   15.00  MPa/s  EN ISO 6892-1 Metod B  
-Mühür / Kaşe
-SealYayımlandığı Tarih
-Date
-27/09/2023Deney Sorumlusu
-Person In Charge Of Test
-Deney Personeli
-İbrahim KILINÇASLAN
-Evrakın doğrulanması için  “http://www.teknolab.info/eimza/evrak_sorgula.aspx”  adresinden ”2023/I‐02916” kodu ile erişebilirsiniz. 
-Bu belge 5070 sayılı elektronik imza kanununa göre güvenli elektronik imza ile imzalanmıştır.
-Bu rapor, laboratuvarın yazılı izni olmadan kısmen kopyalanıp çoğaltılamaz. İmzasız raporlar gerçersizdir. 
-This report, shall not be reproduced other then in full except with the permission of the laboratory. 
-Testing resports without signature are not valid.
-29 / 46 
-F.7.8-001 / (25.02.2023/01)TEKNOLAB TEKNOLOJİ LABORATUVAR HİZMETLERİ LİMİTED
-ŞİRKETİ
-İkitelli Organize Sanayi Bölgesi Pik Dokümcüler Sit. B6 Blok No:23 Başakşehir İSTANBUL/TÜRKİYEAB-0646-T
-2023/PRT‐İ/00615
-10-2023
-Lab. Numune No/Rapor No
-Lab. Order No/Report No2023/I-02917
-Deneyin Yapıldığı Tarih
-Date of Test10/10/2023
-Numune Adı, Tarifi, 
-(Müşteri tarafından beyan edilmiştir.)
-Name, identity (Declared by Customer)Kilit Mekanizması 4.Numune
-Ortam Şartları
-Environmental Conditions24°C
-Açıklama
-Description
-Parametreler
-ParametersAnaliz Sonuçları
-Result of analysisBirim
-UnitDeney Metodu
-Analysis Method
-Çekme Deneyi (Tensile Test)
-Çekme Gerilmesi (Rm)   706.00  N/mm^2  EN ISO 6892-1 Metod B  
-Rp0,2  381.00  N/mm^2  EN ISO 6892-1 Metod B  
-A5  49.00  %  EN ISO 6892-1 Metod B  
-Çekme Hızı   15.00  MPa/s  EN ISO 6892-1 Metod B  
-Mühür / Kaşe
-SealYayımlandığı Tarih
-Date
-27/09/2023Deney Sorumlusu
-Person In Charge Of Test
-Deney Personeli
-İbrahim KILINÇASLAN
-Evrakın doğrulanması için  “http://www.teknolab.info/eimza/evrak_sorgula.aspx”  adresinden ”2023/I‐02917” kodu ile erişebilirsiniz. 
-Bu belge 5070 sayılı elektronik imza kanununa göre güvenli elektronik imza ile imzalanmıştır.
-Bu rapor, laboratuvarın yazılı izni olmadan kısmen kopyalanıp çoğaltılamaz. İmzasız raporlar gerçersizdir. 
-This report, shall not be reproduced other then in full except with the permission of the laboratory. 
-Testing resports without signature are not valid.
-30 / 46 
-F.7.8-001 / (25.02.2023/01)TEKNOLAB TEKNOLOJİ LABORATUVAR HİZMETLERİ LİMİTED
-ŞİRKETİ
-İkitelli Organize Sanayi Bölgesi Pik Dokümcüler Sit. B6 Blok No:23 Başakşehir İSTANBUL/TÜRKİYEAB-0646-T
-2023/PRT‐İ/00615
-10-2023
-Lab. Numune No/Rapor No
-Lab. Order No/Report No2023/I-02918
-Deneyin Yapıldığı Tarih
-Date of Test10/10/2023
-Numune Adı, Tarifi, 
-(Müşteri tarafından beyan edilmiştir.)
-Name, identity (Declared by Customer)Kilit Mekanizması 5.Numune
-Ortam Şartları
-Environmental Conditions24°C
-Açıklama
-Description
-Parametreler
-ParametersAnaliz Sonuçları
-Result of analysisBirim
-UnitDeney Metodu
-Analysis Method
-Çekme Deneyi (Tensile Test)
-Çekme Gerilmesi (Rm)   744.00  N/mm^2  EN ISO 6892-1 Metod B  
-Rp0,2  617.00  N/mm^2  EN ISO 6892-1 Metod B  
-A5  30.00  %  EN ISO 6892-1 Metod B  
-Çekme Hızı   15.00  MPa/s  EN ISO 6892-1 Metod B  
-Mühür / Kaşe
-SealYayımlandığı Tarih
-Date
-27/09/2023Deney Sorumlusu
-Person In Charge Of Test
-Deney Personeli
-İbrahim KILINÇASLAN
-Evrakın doğrulanması için  “http://www.teknolab.info/eimza/evrak_sorgula.aspx”  adresinden ”2023/I‐02918” kodu ile erişebilirsiniz. 
-Bu belge 5070 sayılı elektronik imza kanununa göre güvenli elektronik imza ile imzalanmıştır.
-Bu rapor, laboratuvarın yazılı izni olmadan kısmen kopyalanıp çoğaltılamaz. İmzasız raporlar gerçersizdir. 
-This report, shall not be reproduced other then in full except with the permission of the laboratory. 
-Testing resports without signature are not valid.
-31 / 46 
-F.7.8-001 / (25.02.2023/01)TEKNOLAB TEKNOLOJİ LABORATUVAR HİZMETLERİ LİMİTED
-ŞİRKETİ
-İkitelli Organize Sanayi Bölgesi Pik Dokümcüler Sit. B6 Blok No:23 Başakşehir İSTANBUL/TÜRKİYEAB-0646-T
-@PROTOKOL_ID@
-09-2023
-Lab. Numune No/Rapor No
-Lab. Order No/Report No2023/I-02919
-Deneyin Yapıldığı Tarih
-Date of Test27/09/2023
-Numune Adı, Tarifi, 
-(Müşteri tarafından beyan edilmiştir.)
-Name, identity (Declared by Customer)Döküm 1.Numune
-Ortam Şartları
-Environmental Conditions24°C
-Açıklama
-Description
-Mühür / Kaşe
-SealYayımlandığı Tarih
-Date
-27/09/2023Deney Sorumlusu
-Person In Charge Of Test
-Deney Personeli
-İbrahim KILINÇASLAN
-Evrakın doğrulanması için  “http://www.teknolab.info/eimza/evrak_sorgula.aspx”  adresinden ”2023/I‐02919” kodu ile erişebilirsiniz. 
-Bu belge 5070 sayılı elektronik imza kanununa göre güvenli elektronik imza ile imzalanmıştır.
-Bu rapor, laboratuvarın yazılı izni olmadan kısmen kopyalanıp çoğaltılamaz. İmzasız raporlar gerçersizdir. 
-This report, shall not be reproduced other then in full except with the permission of the laboratory. 
-Testing resports without signature are not valid.
-32 / 46 
-F.7.8-001 / (25.02.2023/01)TEKNOLAB TEKNOLOJİ LABORATUVAR HİZMETLERİ LİMİTED
-ŞİRKETİ
-İkitelli Organize Sanayi Bölgesi Pik Dokümcüler Sit. B6 Blok No:23 Başakşehir İSTANBUL/TÜRKİYEAB-0646-T
-@PROTOKOL_ID@
-09-2023
-Lab. Numune No/Rapor No
-Lab. Order No/Report No2023/I-02920
-Deneyin Yapıldığı Tarih
-Date of Test27/09/2023
-Numune Adı, Tarifi, 
-(Müşteri tarafından beyan edilmiştir.)
-Name, identity (Declared by Customer)Döküm 2.Numune
-Ortam Şartları
-Environmental Conditions24°C
-Açıklama
-Description
-Mühür / Kaşe
-SealYayımlandığı Tarih
-Date
-27/09/2023Deney Sorumlusu
-Person In Charge Of Test
-Deney Personeli
-İbrahim KILINÇASLAN
-Evrakın doğrulanması için  “http://www.teknolab.info/eimza/evrak_sorgula.aspx”  adresinden ”2023/I‐02920” kodu ile erişebilirsiniz. 
-Bu belge 5070 sayılı elektronik imza kanununa göre güvenli elektronik imza ile imzalanmıştır.
-Bu rapor, laboratuvarın yazılı izni olmadan kısmen kopyalanıp çoğaltılamaz. İmzasız raporlar gerçersizdir. 
-This report, shall not be reproduced other then in full except with the permission of the laboratory. 
-Testing resports without signature are not valid.
-33 / 46 
-F.7.8-001 / (25.02.2023/01)TEKNOLAB TEKNOLOJİ LABORATUVAR HİZMETLERİ LİMİTED
-ŞİRKETİ
-İkitelli Organize Sanayi Bölgesi Pik Dokümcüler Sit. B6 Blok No:23 Başakşehir İSTANBUL/TÜRKİYEAB-0646-T
-@PROTOKOL_ID@
-09-2023
-Lab. Numune No/Rapor No
-Lab. Order No/Report No2023/I-02921
-Deneyin Yapıldığı Tarih
-Date of Test27/09/2023
-Numune Adı, Tarifi, 
-(Müşteri tarafından beyan edilmiştir.)
-Name, identity (Declared by Customer)Döküm 3.Numune
-Ortam Şartları
-Environmental Conditions24°C
-Açıklama
-Description
-Mühür / Kaşe
-SealYayımlandığı Tarih
-Date
-27/09/2023Deney Sorumlusu
-Person In Charge Of Test
-Deney Personeli
-İbrahim KILINÇASLAN
-Evrakın doğrulanması için  “http://www.teknolab.info/eimza/evrak_sorgula.aspx”  adresinden ”2023/I‐02921” kodu ile erişebilirsiniz. 
-Bu belge 5070 sayılı elektronik imza kanununa göre güvenli elektronik imza ile imzalanmıştır.
-Bu rapor, laboratuvarın yazılı izni olmadan kısmen kopyalanıp çoğaltılamaz. İmzasız raporlar gerçersizdir. 
-This report, shall not be reproduced other then in full except with the permission of the laboratory. 
-Testing resports without signature are not valid.
-34 / 46 
-F.7.8-001 / (25.02.2023/01)TEKNOLAB TEKNOLOJİ LABORATUVAR HİZMETLERİ LİMİTED
-ŞİRKETİ
-İkitelli Organize Sanayi Bölgesi Pik Dokümcüler Sit. B6 Blok No:23 Başakşehir İSTANBUL/TÜRKİYEAB-0646-T
-@PROTOKOL_ID@
-09-2023
-Lab. Numune No/Rapor No
-Lab. Order No/Report No2023/I-02922
-Deneyin Yapıldığı Tarih
-Date of Test27/09/2023
-Numune Adı, Tarifi, 
-(Müşteri tarafından beyan edilmiştir.)
-Name, identity (Declared by Customer)Döküm 4.Numune
-Ortam Şartları
-Environmental Conditions24°C
-Açıklama
-Description
-Mühür / Kaşe
-SealYayımlandığı Tarih
-Date
-27/09/2023Deney Sorumlusu
-Person In Charge Of Test
-Deney Personeli
-İbrahim KILINÇASLAN
-Evrakın doğrulanması için  “http://www.teknolab.info/eimza/evrak_sorgula.aspx”  adresinden ”2023/I‐02922” kodu ile erişebilirsiniz. 
-Bu belge 5070 sayılı elektronik imza kanununa göre güvenli elektronik imza ile imzalanmıştır.
-Bu rapor, laboratuvarın yazılı izni olmadan kısmen kopyalanıp çoğaltılamaz. İmzasız raporlar gerçersizdir. 
-This report, shall not be reproduced other then in full except with the permission of the laboratory. 
-Testing resports without signature are not valid.
-35 / 46 
-F.7.8-001 / (25.02.2023/01)TEKNOLAB TEKNOLOJİ LABORATUVAR HİZMETLERİ LİMİTED
-ŞİRKETİ
-İkitelli Organize Sanayi Bölgesi Pik Dokümcüler Sit. B6 Blok No:23 Başakşehir İSTANBUL/TÜRKİYEAB-0646-T
-@PROTOKOL_ID@
-09-2023
-Lab. Numune No/Rapor No
-Lab. Order No/Report No2023/I-02923
-Deneyin Yapıldığı Tarih
-Date of Test27/09/2023
-Numune Adı, Tarifi, 
-(Müşteri tarafından beyan edilmiştir.)
-Name, identity (Declared by Customer)Döküm 5.Numune
-Ortam Şartları
-Environmental Conditions24°C
-Açıklama
-Description
-Mühür / Kaşe
-SealYayımlandığı Tarih
-Date
-27/09/2023Deney Sorumlusu
-Person In Charge Of Test
-Deney Personeli
-İbrahim KILINÇASLAN
-Evrakın doğrulanması için  “http://www.teknolab.info/eimza/evrak_sorgula.aspx”  adresinden ”2023/I‐02923” kodu ile erişebilirsiniz. 
-Bu belge 5070 sayılı elektronik imza kanununa göre güvenli elektronik imza ile imzalanmıştır.
-Bu rapor, laboratuvarın yazılı izni olmadan kısmen kopyalanıp çoğaltılamaz. İmzasız raporlar gerçersizdir. 
-This report, shall not be reproduced other then in full except with the permission of the laboratory. 
-Testing resports without signature are not valid.
-36 / 46 
-F.7.8-001 / (25.02.2023/01)TEKNOLAB TEKNOLOJİ LABORATUVAR HİZMETLERİ LİMİTED
-ŞİRKETİ
-İkitelli Organize Sanayi Bölgesi Pik Dokümcüler Sit. B6 Blok No:23 Başakşehir İSTANBUL/TÜRKİYEAB-0646-T
-2023/PRT‐İ/00615
-10-2023
-Lab. Numune No/Rapor No
-Lab. Order No/Report No2023/I-02924
-Deneyin Yapıldığı Tarih
-Date of Test02/10/2023
-Numune Adı, Tarifi, 
-(Müşteri tarafından beyan edilmiştir.)
-Name, identity (Declared by Customer)Parsel Bacası Kapama Takımı Anahtar Numunesi ‐1
-Ortam Şartları
-Environmental Conditions24°C
-Açıklama
-Description
-Parametreler
-ParametersAnaliz Sonuçları
-Result of analysisBirim
-UnitDeney Metodu
-Analysis Method
-Paslanmaz Çelik Spektrometrik Analiz
-C  0.020  %  ASTM E1086  
-Si  0.408  %  ASTM E1086  
-Mn  1.129  %  ASTM E1086  
-P  0.031  %  ASTM E1086  
-S  0.0051  %  ASTM E1086  
-Cr  18.40  %  ASTM E1086  
-Ni  8.325  %  ASTM E1086  
-Mo  0.030  %  ASTM E1086  
-Cu  0.026  %  ASTM E1086  
-Fe+Diğer  71.15  %  ASTM E1086  
-Mühür / Kaşe
-SealYayımlandığı Tarih
-Date
-27/09/2023Deney Sorumlusu
-Person In Charge Of Test
-Deney Personeli
-İbrahim KILINÇASLAN
-Evrakın doğrulanması için  “http://www.teknolab.info/eimza/evrak_sorgula.aspx”  adresinden ”2023/I‐02924” kodu ile erişebilirsiniz. 
-Bu belge 5070 sayılı elektronik imza kanununa göre güvenli elektronik imza ile imzalanmıştır.
-Bu rapor, laboratuvarın yazılı izni olmadan kısmen kopyalanıp çoğaltılamaz. İmzasız raporlar gerçersizdir. 
-This report, shall not be reproduced other then in full except with the permission of the laboratory. 
-Testing resports without signature are not valid.
-37 / 46 
-F.7.8-001 / (25.02.2023/01)TEKNOLAB TEKNOLOJİ LABORATUVAR HİZMETLERİ LİMİTED
-ŞİRKETİ
-İkitelli Organize Sanayi Bölgesi Pik Dokümcüler Sit. B6 Blok No:23 Başakşehir İSTANBUL/TÜRKİYEAB-0646-T
-2023/PRT‐İ/00615
-10-2023
-Lab. Numune No/Rapor No
-Lab. Order No/Report No2023/I-02925
-Deneyin Yapıldığı Tarih
-Date of Test02/10/2023
-Numune Adı, Tarifi, 
-(Müşteri tarafından beyan edilmiştir.)
-Name, identity (Declared by Customer)Parsel Bacası Kapama Takımı Anahtar Numunesi ‐2
-Ortam Şartları
-Environmental Conditions24°C
-Açıklama
-Description
-Parametreler
-ParametersAnaliz Sonuçları
-Result of analysisBirim
-UnitDeney Metodu
-Analysis Method
-Paslanmaz Çelik Spektrometrik Analiz
-C  0.020  %  ASTM E1086  
-Si  0.403  %  ASTM E1086  
-Mn  1.135  %  ASTM E1086  
-P  0.029  %  ASTM E1086  
-S  0.0052  %  ASTM E1086  
-Cr  18.31  %  ASTM E1086  
-Ni  8.359  %  ASTM E1086  
-Mo  0.030  %  ASTM E1086  
-Cu  0.026  %  ASTM E1086  
-Fe+Diğer  71.21  %  ASTM E1086  
-Mühür / Kaşe
-SealYayımlandığı Tarih
-Date
-27/09/2023Deney Sorumlusu
-Person In Charge Of Test
-Deney Personeli
-İbrahim KILINÇASLAN
-Evrakın doğrulanması için  “http://www.teknolab.info/eimza/evrak_sorgula.aspx”  adresinden ”2023/I‐02925” kodu ile erişebilirsiniz. 
-Bu belge 5070 sayılı elektronik imza kanununa göre güvenli elektronik imza ile imzalanmıştır.
-Bu rapor, laboratuvarın yazılı izni olmadan kısmen kopyalanıp çoğaltılamaz. İmzasız raporlar gerçersizdir. 
-This report, shall not be reproduced other then in full except with the permission of the laboratory. 
-Testing resports without signature are not valid.
-38 / 46 
-F.7.8-001 / (25.02.2023/01)TEKNOLAB TEKNOLOJİ LABORATUVAR HİZMETLERİ LİMİTED
-ŞİRKETİ
-İkitelli Organize Sanayi Bölgesi Pik Dokümcüler Sit. B6 Blok No:23 Başakşehir İSTANBUL/TÜRKİYEAB-0646-T
-2023/PRT‐İ/00615
-10-2023
-Lab. Numune No/Rapor No
-Lab. Order No/Report No2023/I-02926
-Deneyin Yapıldığı Tarih
-Date of Test02/10/2023
-Numune Adı, Tarifi, 
-(Müşteri tarafından beyan edilmiştir.)
-Name, identity (Declared by Customer)Parsel Bacası Kapama Takımı Anahtar Numunesi ‐3
-Ortam Şartları
-Environmental Conditions24°C
-Açıklama
-Description
-Parametreler
-ParametersAnaliz Sonuçları
-Result of analysisBirim
-UnitDeney Metodu
-Analysis Method
-Paslanmaz Çelik Spektrometrik Analiz
-C  0.023  %  ASTM E1086  
-Si  0.418  %  ASTM E1086  
-Mn  1.126  %  ASTM E1086  
-P  0.029  %  ASTM E1086  
-S  0.0046  %  ASTM E1086  
-Cr  18.19  %  ASTM E1086  
-Ni  8.455  %  ASTM E1086  
-Mo  0.030  %  ASTM E1086  
-Cu  0.028  %  ASTM E1086  
-Fe+Diğer  71.23  %  ASTM E1086  
-Mühür / Kaşe
-SealYayımlandığı Tarih
-Date
-27/09/2023Deney Sorumlusu
-Person In Charge Of Test
-Deney Personeli
-İbrahim KILINÇASLAN
-Evrakın doğrulanması için  “http://www.teknolab.info/eimza/evrak_sorgula.aspx”  adresinden ”2023/I‐02926” kodu ile erişebilirsiniz. 
-Bu belge 5070 sayılı elektronik imza kanununa göre güvenli elektronik imza ile imzalanmıştır.
-Bu rapor, laboratuvarın yazılı izni olmadan kısmen kopyalanıp çoğaltılamaz. İmzasız raporlar gerçersizdir. 
-This report, shall not be reproduced other then in full except with the permission of the laboratory. 
-Testing resports without signature are not valid.
-39 / 46 
-F.7.8-001 / (25.02.2023/01)TEKNOLAB TEKNOLOJİ LABORATUVAR HİZMETLERİ LİMİTED
-ŞİRKETİ
-İkitelli Organize Sanayi Bölgesi Pik Dokümcüler Sit. B6 Blok No:23 Başakşehir İSTANBUL/TÜRKİYEAB-0646-T
-2023/PRT‐İ/00615
-10-2023
-Lab. Numune No/Rapor No
-Lab. Order No/Report No2023/I-02927
-Deneyin Yapıldığı Tarih
-Date of Test02/10/2023
-Numune Adı, Tarifi, 
-(Müşteri tarafından beyan edilmiştir.)
-Name, identity (Declared by Customer)Parsel Bacası Kapama Takımı Anahtar Numunesi ‐4
-Ortam Şartları
-Environmental Conditions24°C
-Açıklama
-Description
-Parametreler
-ParametersAnaliz Sonuçları
-Result of analysisBirim
-UnitDeney Metodu
-Analysis Method
-Paslanmaz Çelik Spektrometrik Analiz
-C  0.021  %  ASTM E1086  
-Si  0.407  %  ASTM E1086  
-Mn  1.128  %  ASTM E1086  
-P  0.028  %  ASTM E1086  
-S  0.0042  %  ASTM E1086  
-Cr  18.42  %  ASTM E1086  
-Ni  8.513  %  ASTM E1086  
-Mo  0.029  %  ASTM E1086  
-Cu  0.027  %  ASTM E1086  
-Fe+Diğer  70.95  %  ASTM E1086  
-Mühür / Kaşe
-SealYayımlandığı Tarih
-Date
-27/09/2023Deney Sorumlusu
-Person In Charge Of Test
-Deney Personeli
-İbrahim KILINÇASLAN
-Evrakın doğrulanması için  “http://www.teknolab.info/eimza/evrak_sorgula.aspx”  adresinden ”2023/I‐02927” kodu ile erişebilirsiniz. 
-Bu belge 5070 sayılı elektronik imza kanununa göre güvenli elektronik imza ile imzalanmıştır.
-Bu rapor, laboratuvarın yazılı izni olmadan kısmen kopyalanıp çoğaltılamaz. İmzasız raporlar gerçersizdir. 
-This report, shall not be reproduced other then in full except with the permission of the laboratory. 
-Testing resports without signature are not valid.
-40 / 46 
-F.7.8-001 / (25.02.2023/01)TEKNOLAB TEKNOLOJİ LABORATUVAR HİZMETLERİ LİMİTED
-ŞİRKETİ
-İkitelli Organize Sanayi Bölgesi Pik Dokümcüler Sit. B6 Blok No:23 Başakşehir İSTANBUL/TÜRKİYEAB-0646-T
-2023/PRT‐İ/00615
-10-2023
-Lab. Numune No/Rapor No
-Lab. Order No/Report No2023/I-02928
-Deneyin Yapıldığı Tarih
-Date of Test02/10/2023
-Numune Adı, Tarifi, 
-(Müşteri tarafından beyan edilmiştir.)
-Name, identity (Declared by Customer)Parsel Bacası Kapama Takımı Anahtar Numunesi ‐5
-Ortam Şartları
-Environmental Conditions24°C
-Açıklama
-Description
-Parametreler
-ParametersAnaliz Sonuçları
-Result of analysisBirim
-UnitDeney Metodu
-Analysis Method
-Paslanmaz Çelik Spektrometrik Analiz
-C  0.020  %  ASTM E1086  
-Si  0.407  %  ASTM E1086  
-Mn  1.121  %  ASTM E1086  
-P  0.030  %  ASTM E1086  
-S  0.0048  %  ASTM E1086  
-Cr  18.36  %  ASTM E1086  
-Ni  8.305  %  ASTM E1086  
-Mo  0.030  %  ASTM E1086  
-Cu  0.026  %  ASTM E1086  
-Fe+Diğer  71.22  %  ASTM E1086  
-Mühür / Kaşe
-SealYayımlandığı Tarih
-Date
-27/09/2023Deney Sorumlusu
-Person In Charge Of Test
-Deney Personeli
-İbrahim KILINÇASLAN
-Evrakın doğrulanması için  “http://www.teknolab.info/eimza/evrak_sorgula.aspx”  adresinden ”2023/I‐02928” kodu ile erişebilirsiniz. 
-Bu belge 5070 sayılı elektronik imza kanununa göre güvenli elektronik imza ile imzalanmıştır.
-Bu rapor, laboratuvarın yazılı izni olmadan kısmen kopyalanıp çoğaltılamaz. İmzasız raporlar gerçersizdir. 
-This report, shall not be reproduced other then in full except with the permission of the laboratory. 
-Testing resports without signature are not valid.
-41 / 46 
-F.7.8-001 / (25.02.2023/01)TEKNOLAB TEKNOLOJİ LABORATUVAR HİZMETLERİ LİMİTED
-ŞİRKETİ
-İkitelli Organize Sanayi Bölgesi Pik Dokümcüler Sit. B6 Blok No:23 Başakşehir İSTANBUL/TÜRKİYEAB-0646-T
-2023/PRT‐İ/00615
-10-2023
-Lab. Numune No/Rapor No
-Lab. Order No/Report No2023/I-02929
-Deneyin Yapıldığı Tarih
-Date of Test10/10/2023
-Numune Adı, Tarifi, 
-(Müşteri tarafından beyan edilmiştir.)
-Name, identity (Declared by Customer)CONTA NUMUNESİ ‐ 1
-Ortam Şartları
-Environmental Conditions24°C
-Açıklama
-Description
-Parametreler
-ParametersAnaliz Sonuçları
-Result of analysisBirim
-UnitDeney Metodu
-Analysis Method
-*Kopma Mukavemeti   12.00  N/mm^2  TS ISO 37  
-*Uzama  371.00  N/mm^2  TS ISO 37  
-*Shore A 1.Ölçüm   68.00  Shore A  Müşteri  
-*Shore A 2.Ölçüm   66.00  Shore A  Müşteri  
-*Shore A 3.Ölçüm   68.00  Shore A  Müşteri  
-Mühür / Kaşe
-SealYayımlandığı Tarih
-Date
-27/09/2023Deney Sorumlusu
-Person In Charge Of Test
-Deney Personeli
-İbrahim KILINÇASLAN
-Evrakın doğrulanması için  “http://www.teknolab.info/eimza/evrak_sorgula.aspx”  adresinden ”2023/I‐02929” kodu ile erişebilirsiniz. 
-Bu belge 5070 sayılı elektronik imza kanununa göre güvenli elektronik imza ile imzalanmıştır.
-Bu rapor, laboratuvarın yazılı izni olmadan kısmen kopyalanıp çoğaltılamaz. İmzasız raporlar gerçersizdir. 
-This report, shall not be reproduced other then in full except with the permission of the laboratory. 
-Testing resports without signature are not valid.
-42 / 46 
-F.7.8-001 / (25.02.2023/01)TEKNOLAB TEKNOLOJİ LABORATUVAR HİZMETLERİ LİMİTED
-ŞİRKETİ
-İkitelli Organize Sanayi Bölgesi Pik Dokümcüler Sit. B6 Blok No:23 Başakşehir İSTANBUL/TÜRKİYEAB-0646-T
-2023/PRT‐İ/00615
-10-2023
-Lab. Numune No/Rapor No
-Lab. Order No/Report No2023/I-02930
-Deneyin Yapıldığı Tarih
-Date of Test10/10/2023
-Numune Adı, Tarifi, 
-(Müşteri tarafından beyan edilmiştir.)
-Name, identity (Declared by Customer)CONTA NUMUNESİ ‐ 2
-Ortam Şartları
-Environmental Conditions24°C
-Açıklama
-Description
-Parametreler
-ParametersAnaliz Sonuçları
-Result of analysisBirim
-UnitDeney Metodu
-Analysis Method
-*Kopma Mukavemeti   11.00  N/mm^2  TS ISO 37  
-*Uzama  365.00  N/mm^2  TS ISO 37  
-*Shore A 1.Ölçüm   68.00  Shore A  Müşteri  
-*Shore A 2.Ölçüm   66.00  Shore A  Müşteri  
-*Shore A 3.Ölçüm   66.00  Shore A  Müşteri  
-Mühür / Kaşe
-SealYayımlandığı Tarih
-Date
-27/09/2023Deney Sorumlusu
-Person In Charge Of Test
-Deney Personeli
-İbrahim KILINÇASLAN
-Evrakın doğrulanması için  “http://www.teknolab.info/eimza/evrak_sorgula.aspx”  adresinden ”2023/I‐02930” kodu ile erişebilirsiniz. 
-Bu belge 5070 sayılı elektronik imza kanununa göre güvenli elektronik imza ile imzalanmıştır.
-Bu rapor, laboratuvarın yazılı izni olmadan kısmen kopyalanıp çoğaltılamaz. İmzasız raporlar gerçersizdir. 
-This report, shall not be reproduced other then in full except with the permission of the laboratory. 
-Testing resports without signature are not valid.
-43 / 46 
-F.7.8-001 / (25.02.2023/01)TEKNOLAB TEKNOLOJİ LABORATUVAR HİZMETLERİ LİMİTED
-ŞİRKETİ
-İkitelli Organize Sanayi Bölgesi Pik Dokümcüler Sit. B6 Blok No:23 Başakşehir İSTANBUL/TÜRKİYEAB-0646-T
-2023/PRT‐İ/00615
-10-2023
-Lab. Numune No/Rapor No
-Lab. Order No/Report No2023/I-02931
-Deneyin Yapıldığı Tarih
-Date of Test10/10/2023
-Numune Adı, Tarifi, 
-(Müşteri tarafından beyan edilmiştir.)
-Name, identity (Declared by Customer)CONTA NUMUNESİ ‐ 3
-Ortam Şartları
-Environmental Conditions24°C
-Açıklama
-Description
-Parametreler
-ParametersAnaliz Sonuçları
-Result of analysisBirim
-UnitDeney Metodu
-Analysis Method
-*Kopma Mukavemeti   13.00  N/mm^2  TS ISO 37  
-*Uzama  374.00  N/mm^2  TS ISO 37  
-*Shore A 1.Ölçüm   69.00  Shore A  Müşteri  
-*Shore A 2.Ölçüm   66.00  Shore A  Müşteri  
-*Shore A 3.Ölçüm   68.00  Shore A  Müşteri  
-Mühür / Kaşe
-SealYayımlandığı Tarih
-Date
-27/09/2023Deney Sorumlusu
-Person In Charge Of Test
-Deney Personeli
-İbrahim KILINÇASLAN
-Evrakın doğrulanması için  “http://www.teknolab.info/eimza/evrak_sorgula.aspx”  adresinden ”2023/I‐02931” kodu ile erişebilirsiniz. 
-Bu belge 5070 sayılı elektronik imza kanununa göre güvenli elektronik imza ile imzalanmıştır.
-Bu rapor, laboratuvarın yazılı izni olmadan kısmen kopyalanıp çoğaltılamaz. İmzasız raporlar gerçersizdir. 
-This report, shall not be reproduced other then in full except with the permission of the laboratory. 
-Testing resports without signature are not valid.
-44 / 46 
-F.7.8-001 / (25.02.2023/01)TEKNOLAB TEKNOLOJİ LABORATUVAR HİZMETLERİ LİMİTED
-ŞİRKETİ
-İkitelli Organize Sanayi Bölgesi Pik Dokümcüler Sit. B6 Blok No:23 Başakşehir İSTANBUL/TÜRKİYEAB-0646-T
-2023/PRT‐İ/00615
-10-2023
-Lab. Numune No/Rapor No
-Lab. Order No/Report No2023/I-02932
-Deneyin Yapıldığı Tarih
-Date of Test10/10/2023
-Numune Adı, Tarifi, 
-(Müşteri tarafından beyan edilmiştir.)
-Name, identity (Declared by Customer)CONTA NUMUNESİ ‐ 4
-Ortam Şartları
-Environmental Conditions24°C
-Açıklama
-Description
-Parametreler
-ParametersAnaliz Sonuçları
-Result of analysisBirim
-UnitDeney Metodu
-Analysis Method
-*Kopma Mukavemeti   12.00  N/mm^2  TS ISO 37  
-*Uzama  368.00  N/mm^2  TS ISO 37  
-*Shore A 1.Ölçüm   68.00  Shore A  Müşteri  
-*Shore A 2.Ölçüm   68.00  Shore A  Müşteri  
-*Shore A 3.Ölçüm   65.00  Shore A  Müşteri  
-Mühür / Kaşe
-SealYayımlandığı Tarih
-Date
-27/09/2023Deney Sorumlusu
-Person In Charge Of Test
-Deney Personeli
-İbrahim KILINÇASLAN
-Evrakın doğrulanması için  “http://www.teknolab.info/eimza/evrak_sorgula.aspx”  adresinden ”2023/I‐02932” kodu ile erişebilirsiniz. 
-Bu belge 5070 sayılı elektronik imza kanununa göre güvenli elektronik imza ile imzalanmıştır.
-Bu rapor, laboratuvarın yazılı izni olmadan kısmen kopyalanıp çoğaltılamaz. İmzasız raporlar gerçersizdir. 
-This report, shall not be reproduced other then in full except with the permission of the laboratory. 
-Testing resports without signature are not valid.
-45 / 46 
-F.7.8-001 / (25.02.2023/01)TEKNOLAB TEKNOLOJİ LABORATUVAR HİZMETLERİ LİMİTED
-ŞİRKETİ
-İkitelli Organize Sanayi Bölgesi Pik Dokümcüler Sit. B6 Blok No:23 Başakşehir İSTANBUL/TÜRKİYEAB-0646-T
-2023/PRT‐İ/00615
-10-2023
-Lab. Numune No/Rapor No
-Lab. Order No/Report No2023/I-02933
-Deneyin Yapıldığı Tarih
-Date of Test10/10/2023
-Numune Adı, Tarifi, 
-(Müşteri tarafından beyan edilmiştir.)
-Name, identity (Declared by Customer)CONTA NUMUNESİ ‐ 5
-Ortam Şartları
-Environmental Conditions24°C
-Açıklama
-Description
-Parametreler
-ParametersAnaliz Sonuçları
-Result of analysisBirim
-UnitDeney Metodu
-Analysis Method
-*Kopma Mukavemeti   11.00  N/mm^2  TS ISO 37  
-*Uzama  359.00  N/mm^2  TS ISO 37  
-*Shore A 1.Ölçüm   66.00  Shore A  Müşteri  
-*Shore A 2.Ölçüm   69.00  Shore A  Müşteri  
-*Shore A 3.Ölçüm   66.00  Shore A  Müşteri  
-Mühür / Kaşe
-SealYayımlandığı Tarih
-Date
-27/09/2023Deney Sorumlusu
-Person In Charge Of Test
-Deney Personeli
-İbrahim KILINÇASLAN
-Evrakın doğrulanması için  “http://www.teknolab.info/eimza/evrak_sorgula.aspx”  adresinden ”2023/I‐02933” kodu ile erişebilirsiniz. 
-Bu belge 5070 sayılı elektronik imza kanununa göre güvenli elektronik imza ile imzalanmıştır.
-Bu rapor, laboratuvarın yazılı izni olmadan kısmen kopyalanıp çoğaltılamaz. İmzasız raporlar gerçersizdir. 
-This report, shall not be reproduced other then in full except with the permission of the laboratory. 
-Testing resports without signature are not valid.
-46 / 46 
-F.7.8-001 / (25.02.2023/01)
+www.royaltest.net   
+ 
+ LABORATUVAR MÜHENDİSLİK VE DANIŞMANLIK HİZ.LTD.ŞTİ 
+ AB-1655-T 
+  3604 
+  10-2023 
+ 
+  Onaylayan/ Approval  
+ Yük.Metalurji ve Malz.Müh. 
+ Köksal YILMAZ 
+  
+Feragat Beyanı: Numune isimleri müşteri tarafından beyan edilmiştir. 
+Adres:İ.O.S.B Aykosan San.Sit Çarşı Blok No:253 Başakşehir/İSTANBUL  
+Tel:0212 549 83 87 Mobil: 0533 168 81 52  
+web:www.royaltest.net e-mail:info@royaltest.net 
+* işaretli olan test ve parametreler akreditasyon kapsamı dışındadır.  
+F.7.8-001 Rev.05/01.09.2023  Sayfa 2/5 
+ 
+                                           DENEY RAPORU  
+                                             TEST REPORT 
+ 
+Numune Adı :  Kapak Parçası Gövde Malzemesi Döküm Şarjları Analiz ve Sertlik Numuneleri 
+ 
+   TEST: SPEKTRAL ANALİZ TESTİ     ASTM E1251     
+No Al* Si Fe Cu Mn Mg Zn Cr Ni Ti Pb Sn V Co 
+ % % % % % % % % % % % % % % 
+1 86,74 8,76 0,784 2,26 0,357 0,173 0,708 0,0286 0,0492 0,0322 0,0581 0,0147 0,0108 <0,003 
+2 86,92 8,96 0,752 2,03 0,301 0,140 0,673 0,0279 0,0468 0,0311 0,0642 0,0181 0,0108 0,0069 
+3 86,92 8,60 0,785 2,27 0,417 0,164 0,654 0,0355 0,0228 0,0311 0,0557 <0,0100 0,0111 0,0049 
+4 87,29 8,57 0,611 2,15 0,363 0,174 0,651 0,0320 0,0224 0,0304 0,0518 0,0102 0,0112 0,0067 
+5 86,80 8,79 0,692 2,27 0,348 0,174 0,722 0,0292 0,0381 0,0314 0,0579 0,0122 0,0112 0,0054 
+6 87,20 8,46 0,750 2,07 0,452 0,166 0,673 0,0377 0,0291 0,0319 0,0585 0,0145 0,0112 0,0097 
+7 87,14 8,81 0,652 2,05 0,315 0,159 0,647 0,0356 0,0343 0,0285 0,0596 0,0185 0,0108 0,0119 
+8 86,85 8,83 0,783 2,05 0,422 0,158 0,642 0,0524 0,0432 0,0292 0,0612 0,0293 0,0112 0,0127 
+9 86,51 9,13 0,737 2,17 0,380 0,188 0,634 0,0552 0,0378 0,0257 0,0581 0,0262 0,0108 0,0116 
+10 86,84 8,98 0,674 2,10 0,360 0,179 0,620 0,0611 0,0299 0,0314 0,0515 0,0198 0,0116 0,0147 
+ 
+  TEST: BRİNELL SERTLİK TESTİ TS EN ISO 6506-1 HBW2,5/62,5   
+ 
+No 1.Ölçüm 2.Ölçüm 3.Ölçüm Ortalama 
+1 88,5 88,6 88,7 88,6 
+2 82,3 82,7 82,5 82,5 
+3 81,4 81,3 81,6 81,4 
+4 86,3 86,5 86,6 86,5 
+5 88,3 88,7 88,5 88,5 
+6 83,4 83,5 83,7 83,5 
+7 81,5 81,7 81,3 81,5 
+8 84,1 84,6 84,8 84,5 
+9 83,5 83,3 83,2 83,3 
+10 85,2 85,6 85,7 85,5 
+ 
+ 
+Numune Adı : Kapak Parçası Gövde Malzemesi Döküm Şarjları Çekme Numuneleri  
+ 
+   TEST: ÇEKME TESTİ TS EN ISO 6892-1 B6  
+ 
+No Rm Rp0,2 A 
+ Mpa Mpa % 
+1 399 356 14 
+2 398 353 14.5 
+3 401 361 12.5 
+4 397 352 14 
+5 403 362 13 
+6 397 352 11.5 
+7 395 349 13 
+8 398 354 12 
+9 400 356 11.5 
+10 397 352 12,5 
+ 
+ 
+ 
+ www.royaltest.net   
+ 
+ LABORATUVAR MÜHENDİSLİK VE DANIŞMANLIK HİZ.LTD.ŞTİ 
+ AB-1655-T 
+  3604 
+  10-2023 
+ 
+  Onaylayan/ Approval  
+ Yük.Metalurji ve Malz.Müh. 
+ Köksal YILMAZ 
+  
+Feragat Beyanı: Numune isimleri müşteri tarafından beyan edilmiştir. 
+Adres:İ.O.S.B Aykosan San.Sit Çarşı Blok No:253 Başakşehir/İSTANBUL  
+Tel:0212 549 83 87 Mobil: 0533 168 81 52  
+web:www.royaltest.net e-mail:info@royaltest.net 
+* işaretli olan test ve parametreler akreditasyon kapsamı dışındadır.  
+F.7.8-001 Rev.05/01.09.2023  Sayfa 3/5 
+ 
+                                           DENEY RAPORU  
+                                             TEST REPORT 
+ 
+Numune Adı :  Hidrant Gövde Malzemesi Döküm Şarjları Numuneleri  
+ 
+   TEST: ÇEKME TESTİ TS EN ISO 6892-1 B30 
+ 
+No Rm 
+ N/mm2 (Mpa) 
+1 439 
+2 441 
+3 439 
+4 438 
+5 441 
+6 444 
+7 441 
+8 448 
+9 427 
+10 441 
+ 
+ 
+   TEST: BRİNELL SERTLİK TESTİ TS EN ISO 6506-1 HBW2,5/187,5   
+No 1.Ölçüm 2.Ölçüm 3.Ölçüm Ortalama 
+1 143,8 143,2 143,1 143,4 
+2 136,5 136,2 136,8 136,5 
+3 137,4 137,8 137,6 137,6 
+4 141,7 141,6 141,5 141,6 
+5 148,2 148,4 148,7 148,5 
+6 138,3 138,7 138,5 138,5 
+7 148,2 148,1 148,6 148,3 
+8 141,6 141,3 141,3 141,4 
+9 139,6 136,3 139,1 139,3 
+10 148,3 148,2 148,7 148,4 
+ 
+ 
+ 
+   TEST: METALOGRAFİK YAPI EN ISO 945-2  
+ 
+No Küreselleşme 
+ % 
+1 82,36 
+2 80,88 
+3 80,94 
+4 80,31 
+5 83,81 
+6 85,84 
+7 82,30 
+8 87,81 
+9 85,18 
+10 87,50 
+ 
+ 
+ 
+ www.royaltest.net   
+ 
+ LABORATUVAR MÜHENDİSLİK VE DANIŞMANLIK HİZ.LTD.ŞTİ 
+ AB-1655-T 
+  3604 
+  10-2023 
+ 
+  Onaylayan/ Approval  
+ Yük.Metalurji ve Malz.Müh. 
+ Köksal YILMAZ 
+  
+Feragat Beyanı: Numune isimleri müşteri tarafından beyan edilmiştir. 
+Adres:İ.O.S.B Aykosan San.Sit Çarşı Blok No:253 Başakşehir/İSTANBUL  
+Tel:0212 549 83 87 Mobil: 0533 168 81 52  
+web:www.royaltest.net e-mail:info@royaltest.net 
+* işaretli olan test ve parametreler akreditasyon kapsamı dışındadır.  
+F.7.8-001 Rev.05/01.09.2023  Sayfa 4/5 
+ 
+                                           DENEY RAPORU  
+                                             TEST REPORT 
+ 
+Numune Adı :  Pirinç Malzeme Analiz ve Sertlik Numuneleri  
+ 
+   TEST: SPEKTRAL ANALİZ TESTİ    EN 15079     
+No Cu* Pb Al Fe Ni Sn Si Zn Mn P Cr Cd 
+ % % % % % % % % % % % % 
+1.Numune 58,4 2,11 0,0469 0,263 0,0901 0,239 0,0073 38,7 0,0042 0,0047 0,0124 0,0052 
+2.Numune 58,0 1,67 0,0158 0,257 0,0881 0,237 <0,005 39,6 <0,002 0,0035 0,0115 0,0052 
+3.Numune 58,0 1,95 0,0154 0,258 0,0954 0,237 <0,005 39,2 0,0024 <0,003 0,0145 0,0052 
+4.Numune 58,6 1,70 0,0163 0,262 0,0936 0,241 0,0081 38,9 0,0107 0,0042 0,0141 0,0052 
+5.Numune 57,5 2,04 0,0200 0,277 0,0970 0,244 0,0112 39,6 0,0192 0,0079 0,0143 0,0051 
+6.Numune 58,7 2,00 0,0157 0,265 0,0949 0,241 0,0099 38,5 0,0155 0,0059 0,0153 0,0052 
+7.Numune 58,0 1,99 0,0150 0,251 0,0964 0,241 0,0088 39,2 0,0182 0,0060 0,0157 0,0052 
+8.Numune 58,9 2,00 0,0143 0,252 0,0902 0,240 0,0083 38,3 0,0183 0,0066 0,0151 0,0053 
+9.Numune 58,4 1,89 0,0139 0,256 0,0831 0,238 0,0078 38,9 0,0160 0,0069 0,0131 0,0052 
+10.Numune 58,1 2,02 0,0150 0,0916 0,247 0,247 0,0096 39,1 0,0187 <0,003 0,0166 0,0052 
+ 
+ 
+   TEST: BRİNELL SERTLİK TESTİ TS EN ISO 6506-1 HBW2,5/62,5       
+No 1.Ölçüm 2.Ölçüm 3.Ölçüm Ortalama 
+1 99,4 99,2 99,8 99,4 
+2 96,4 96,2 96,1 96,2 
+3 102,7 102,4 102,1 102,4 
+4 97,5 97,8 97,5 97,6 
+5 102,4 102,3 102,6 102,4 
+6 96,1 96,3 96,2 96,2 
+7 102,6 102,1 102,7 102,5 
+8 102,3 102,4 102,8 102,5 
+9 104,1 104,7 104,2 104,3 
+10 103,2 103,5 103,7 103,5 
+ 
+ 
+Numune Adı : Pirinç Malzeme Çekme Numuneleri   
+ 
+   TEST: ÇEKME TESTİ TS EN ISO 6892-1 B30 
+No Rm Rp0,2 A 
+ Mpa Mpa % 
+1 439 267 37,5 
+2 440 266 36 
+3 443 271 37 
+4 441 268 38 
+5 442 267 38,5 
+6 440 266 38,5 
+7 443 270 38 
+8 441 269 37 
+9 443 270 38,5 
+10 441 267 38 
+ 
+ 
+ 
+ www.royaltest.net   
+ 
+ LABORATUVAR MÜHENDİSLİK VE DANIŞMANLIK HİZ.LTD.ŞTİ 
+ AB-1655-T 
+  3604 
+  10-2023 
+ 
+  Onaylayan/ Approval  
+ Yük.Metalurji ve Malz.Müh. 
+ Köksal YILMAZ 
+  
+Feragat Beyanı: Numune isimleri müşteri tarafından beyan edilmiştir. 
+Adres:İ.O.S.B Aykosan San.Sit Çarşı Blok No:253 Başakşehir/İSTANBUL  
+Tel:0212 549 83 87 Mobil: 0533 168 81 52  
+web:www.royaltest.net e-mail:info@royaltest.net 
+* işaretli olan test ve parametreler akreditasyon kapsamı dışındadır.  
+F.7.8-001 Rev.05/01.09.2023  Sayfa 5/5 
+ 
+                                           DENEY RAPORU  
+                                             TEST REPORT 
+ 
+Numune Adı :  AISI 304 Paslanmaz Çelik Malzeme Analiz numuneleri  
+ 
+   TEST: SPEKTRAL ANALİZ TESTİ  ASTM E1086 
+No C Si Mn P S Cr Ni Mo Cu      
+ % % % % % % % % %      
+1 0,0326 0,422 1,316 0,0220 <0,002 18,38 8,631 0,006 0,055      
+2 0,0292 0,437 1,266 0,0361 0,0029 18,17 8,566 <0,005 0,0586      
+3 0,0381 0,433 1,286 0,0375 0,0047 18,80 8,147 <0,005 0,0564      
+4 0,0348 0,423 1,279 0,0270 0,0033 18,56 8,299 0,0119 0,0522      
+5 0,0595 0,382 1,113 0,0282 0,0037 18,82 8,149 0,0206 0,0483      
+6 0,0674 0,380 1,079 0,0346 0,003 18,53 8,361 0,0140 0,0488      
+7 0,0640 0,382 1,127 0,0334 0,002 18,52 8,604 0,0219 0,0471      
+8 0,0573 0,388 1,089 0,0351 <0,002 18,50 8,179 0,0191 0,0503      
+9 0,0254 0,422 1,293 0,0306 0,0028 18,45 8,433 0,0255 0,0522      
+10 0,0594 0,427 1,293 0,0291 0,0031 18,31 8,427 0,0110 0,0622      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

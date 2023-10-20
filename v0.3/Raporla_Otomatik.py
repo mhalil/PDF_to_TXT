@@ -36,7 +36,7 @@ def raporu_kaydet1():
         kaydet(desen_degeri)
 
 # ##### 1. Fonksiyonları Çalıştır #####
-# raporu_yazdir1()
+raporu_yazdir1()
 # raporu_kaydet1()
 #####################################
 

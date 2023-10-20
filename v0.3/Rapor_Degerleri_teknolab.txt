@@ -48,11 +48,11 @@ A5  30,00  %  EN ISO 6892-1 Metod B
 *Kopma Mukavemeti   13,00  N/mm^2  TS ISO 37
 *Kopma Mukavemeti   12,00  N/mm^2  TS ISO 37
 *Kopma Mukavemeti   11,00  N/mm^2  TS ISO 37
-*Uzama  371,00  N/mm^2  TS ISO 37
-*Uzama  365,00  N/mm^2  TS ISO 37
-*Uzama  374,00  N/mm^2  TS ISO 37
-*Uzama  368,00  N/mm^2  TS ISO 37
-*Uzama  359,00  N/mm^2  TS ISO 37
+*Uzama  371,00  %  TS ISO 37
+*Uzama  365,00  %  TS ISO 37
+*Uzama  374,00  %  TS ISO 37
+*Uzama  368,00  %  TS ISO 37
+*Uzama  359,00  %  TS ISO 37
 Ti  0,042  %  ASTM E1999
 *Mg  0,040  %  ASTM E1999
 C  3,688  %  ASTM E1999

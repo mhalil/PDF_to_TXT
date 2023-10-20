@@ -1,6 +1,6 @@
 from PyPDF2 import PdfReader
 
-pdf_dosya_adi = "Analiz_Rapor"
+pdf_dosya_adi = "Royaltest"
 pdf_dosyasi = PdfReader(pdf_dosya_adi + ".pdf") # Dosya adı ve uzantisi
 toplam_safya_sayisi = len(pdf_dosyasi.pages)
 

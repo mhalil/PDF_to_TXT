@@ -1,28 +1,20 @@
-##### Brinell_Sertlik Test Sonucu Deseni ##################################################################################
-desen_brinell_sertlik = r"Brinell\s+\d+\.\d+\s+HBW"      # Örnek eslesme: "Brinell   195.10  HBW 2,5/187,5  EN ISO 6506-1"
-###########################################################################################################################
+desen = r"TEST:\s+\w+\s+\w+\s+\w+\s+"   
+desen_ondalik = r"\d+\,\d+"   # 86,74 8,76 0,784 2,26 0,357 0,173 0,708 0,0286 0,0492 0,0322 0,0581 0,0147 0,0108 <0,003 
 
-##### Çekme Deneyi - Akma Dayanımı (Rp0,2) Sonucu Deseni #############################################################################
-desen_akma_dayanimi = r"Rp0,2\s+\d+\.\d+\s+N/mm\^2\s+EN ISO 6892-1 Metod B"  # Örnek eslesme: "Rp0,2  370.00  N/mm^2  EN ISO 6892-1 Metod B" - "\w+\d+,\d\s+\d+\.\d+\s+N/mm\^2\s+EN ISO 6892-1 Metod B" bu desen de olur.
-######################################################################################################################################
 
-##### Çekme Deneyi - Çekme Gerilmesi (Rm) Sonucu Deseni #############################################################################
-desen_cekme_gerilmesi = r"\(Rm\)\s+\d+\.\d+\s+N/mm\^2\s+EN ISO 6892-1 Metod B"      # Örnek eslesme: "Çekme Gerilmesi (Rm)   562.00  N/mm^2  EN ISO 6892-1 Metod B" - "\(\w+\)\s+\d+\.\d+\s+N/mm\^2\s+EN ISO 6892-1 Metod B" bu deen de olur
-#####################################################################################################################################
+"""
+   TEST: SPEKTRAL ANALİZ TESTİ     ASTM E1251     
+  TEST: BRİNELL SERTLİK TESTİ TS EN ISO 6506-1 HBW2,5/62,5 
+     TEST: ÇEKME TESTİ TS EN ISO 6892-1 B6  
+   TEST: ÇEKME TESTİ TS EN ISO 6892-1 B30 
+   TEST: BRİNELL SERTLİK TESTİ TS EN ISO 6506-1 HBW2,5/187,5   
+   TEST: METALOGRAFİK YAPI EN ISO 945-2  
+   TEST: SPEKTRAL ANALİZ TESTİ    EN 15079     
+   TEST: BRİNELL SERTLİK TESTİ TS EN ISO 6506-1 HBW2,5/62,5       
+   TEST: ÇEKME TESTİ TS EN ISO 6892-1 B30 
+   TEST: SPEKTRAL ANALİZ TESTİ  ASTM E1086 
 
-##### Çekme Deneyi - Kopma Uzaması (A5) Sonucu Deseni #############################################################################
-desen_kopma_uzamasi = r"A5\s+\d+\.\d+\s+%\s+EN ISO 6892-1 Metod B"  # Örnek eslesme: "A5  7.000  %  EN ISO 6892-1 Metod B"
-###################################################################################################################################
+desen_baslik_5 = "TEST:\s+\w+\s+\w+\s+\w+\s+\w+\s+.\d+"    #    TEST: SPEKTRAL ANALİZ TESTİ     ASTM E1251     
+desen_baslik_6 = "TEST:\s+\w+\s+\w+\s+\w+\s+\w+\s+\w+\s+.\d+"    #    "    TEST: ÇEKME TESTİ TS EN ISO 6892-1 B6  "  
 
-##### CONTA NUMUNESİ - Kopma Mukavemeti Sonucu Deseni ########################################################################################
-desen_conta_kopma_mukavemeti = r"\*\w+\s+\w+\s+\d+\.\d+\s+N/mm\^2  TS ISO 37"  # Örnek eslesme: "*Kopma Mukavemeti   12.00  N/mm^2  TS ISO 37"
-###############################################################################################################################################
-
-##### CONTA NUMUNESİ - Uzama Sonucu Deseni #####################################################################################################
-desen_conta_uzama = r"\*\w+\s+\d+\.\d+\s+N/mm\^2  TS ISO 37"  # Örnek eslesme: "*Uzama  371.00  N/mm^2  TS ISO 37" Örnek sonuç hatalı galiba !!!
-################################################################################################################################################
-
-##### Spektrometrik (Kimyasal) Analiz Deseni #####################################################################################################################
-desen_kimyasal = r"\*?\w+\s+<?\d+\.\d+\s+%\s+ASTM E1999"      # Örnek eslesme: "*Mg  0.040  %  ASTM E1999", "C  3.688  %  ASTM E1999 " ya da "Ni  <0.010  %  ASTM E1999 "
-###############################################################################################################################################################################
-
+"""
