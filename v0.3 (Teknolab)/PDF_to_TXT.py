@@ -9,8 +9,9 @@ def veriyi_kaydet():
     for sayfa in range(toplam_safya_sayisi):
         with open("pdf_verisi.txt", "a", encoding="utf8") as dosya: 
             dosya.write(pdf_dosyasi.pages[sayfa].extract_text())
+            # dosya.write(pdf_dosyasi.pages[sayfa].extract_text().replace(".", ","))
 ############################################################################
 
 ##### pdf_to_txt() Fonksiyonunu Çalıştır. ######
-veriyi_kaydet()
+# veriyi_kaydet()
 ################################################
