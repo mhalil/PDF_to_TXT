@@ -105,6 +105,6 @@ EPDM - Conta Numune 5|ParametersAnaliz Sonuçları|*Uzama  10.00  %  TS ISO 37  
 
 Bu versiyonda, v.0.4.2 sürümünde elde ettiğimiz çıktıları (.tsv uzantılı dosya içeriğini) **Sonuc ve Kıyas.ods** dosyasına yapıştırarak, Sonuçların belirlenen Teknik Şartname değerlerine uygun olup olmadığını hızlı bir şekilde görebiliyoruz.
 
-![SS1](v0.4.3 (Teknolab)/SS1.png)
+![SS1](img/v0.4.3-SS1.png)
 
-![SS2](v0.4.3 (Teknolab)/SS2.png)
+![SS2](img/v0.4.3-SS2.png)
