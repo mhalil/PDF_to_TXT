@@ -14,7 +14,7 @@ desen_cekme_gerilmesi = r"\(Rm\)\s+\d+\.\d+\s+N/mm\^2\s+EN ISO 6892-1 Metod B"
 desen_kimyasal = r"\*?\w+\s+<?\d+\.\d+\s+%\s+ASTM E1999"
 ```
 
-***Örnek Çıkılar;***
+***Örnek Çıktılar;***
 
 ```python
 Brinell   195.10  HBW
@@ -100,3 +100,11 @@ EPDM - Conta Numune 1|ParametersAnaliz Sonuçları|*Uzama  11.00  %  TS ISO 37  
 EPDM - Conta Numune 5|ParametersAnaliz Sonuçları|*Kopma Mukavemeti   355.00  N/mm^2  TS ISO 37  |Kopma Mukavemeti| 355,00
 EPDM - Conta Numune 5|ParametersAnaliz Sonuçları|*Uzama  10.00  %  TS ISO 37  |Uzama|10,00
 ```
+
+## v0.4.3 (Teknolab);
+
+Bu versiyonda, v.0.4.2 sürümünde elde ettiğimiz çıktıları (.tsv uzantılı dosya içeriğini) **Sonuc ve Kıyas.ods** dosyasına yapıştırarak, Sonuçların belirlenen Teknik Şartname değerlerine uygun olup olmadığını hızlı bir şekilde görebiliyoruz.
+
+![SS1](v0.4.3 (Teknolab)/SS1.png)
+
+![SS2](v0.4.3 (Teknolab)/SS2.png)
